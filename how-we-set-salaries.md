@@ -10,7 +10,7 @@ At Bench, there are two key components of salary: market value and competency. *
 
 The first step in determining market value is cleary defining the roles in your organization. At Bench we chose to use numbered levels for our engineers—we go from Engineer 1 to Engineer 5. For each level, we defined a very clear set of competencies (see Competencies by Role).
 
-Once our roles were clearly defined, we began comparing them to the two salary databases that we purchase on an annual basis (Radford and HR Tech). Salary database collect data from thousands of companies each year. For each job title, they provide the median and mean salaries at the 50th, 75th, and 90th percentile. The basic idea is that you find matches in their database for the roles in your organization, and then use their data to set a competitive salary midpoint—in our case, the 75th percentile.
+Once our roles were clearly defined, we compared them to the two salary databases that we purchase on an annual basis (Radford and HR Tech). Salary databases collect data from thousands of companies each year. For each job title, they provide the median and mean salaries at the 50th, 75th, and 90th percentile. The basic idea is that you find matches in their database for the roles in your organization, and then use their data to set a competitive salary midpoint—in our case, the 75th percentile.
 
 Salary databases are useful tools for creating a competitive salary program, but they need to be taken with a grain of salt. Job titles are non-standard, and often company-size-dependent. For example, a CTO at a 5-person startup is a very different job from a CTO with a 1000-person engineering team. We've learned that it's rare to find a perfect match with a job title in the database, so the trick is to find those that are closest, and then use a combination of other sources (job postings, exit interviews, and gut instinct) to set the salary midpoint.
 
@@ -23,9 +23,9 @@ Salary bands set the market context for salary in a role, and competency determi
 - Team member does a self-assessment, rating themselves between 1-5 for each competency in their role
 - Their manager does the same assessment
 - They meet to talk about each competency, and negotiate the right score for that competency
-- We then use the average score to place them within the midpoint using a default open formula
+- We then use the average score to place them within the band using a default open formula
 
-This bullet list looks quite simple, but in reality these sessions are full of deeply honest conversations about growth. They remove the guesswork and ideally a significant amount of bias from the process.
+This bullet list looks quite simple, but in reality these sessions are full of deeply honest conversations about growth. They remove the guesswork and ideally a significant amount of bias from the process of setting a salary.
 
 ### What if the market changes?
 
@@ -34,6 +34,8 @@ Once we've assessed competency and used it to determine salary, we can determine
 ## Promotions
 
 Salary bands can be large, and this is on purpose. They are designed to overlap each other. Here’s a visualization with dummy data:
+
+![Image of salary Bands](images/bands.png)
 
 This is useful for a number of reasons:
 

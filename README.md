@@ -27,8 +27,5 @@ To write (add link when complete):
   - Competencies of high-performing teams heatmap
 - Compensation
   - Employee Value Proposition
-  - How we set salaries
-    - Market salary to Bench salary case study
-    - Salary Bands
-    - Competencies by role
+  - [How we set salaries](how-we-set-salaries.md)
 - How to quit
