@@ -6,12 +6,12 @@ To write (add link when complete):
 - Welcome
 - Culture
   - A test suite for our culture
-  - Bench Principles
+  - [Bench Principles](https://bench.co/go/culture)
   - [Engineering & IT Principles](engineering-it-principles.md)
 - How we are organized
   - Product Engineering
-  - Platform/IT/Data
   - Guilds
+  - Technology Services
 - How we deliver
   - Roadmap/Chores/Requests/Support
   - Build Cycles
@@ -26,6 +26,6 @@ To write (add link when complete):
   - Leaders within teams
   - Competencies of high-performing teams heatmap
 - Compensation
-  - Employee Value Proposition
+  - [Employee Value Proposition](employee-value-proposition.md)
   - [How we set salaries](how-we-set-salaries.md)
 - How to quit
