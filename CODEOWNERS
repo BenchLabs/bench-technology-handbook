@@ -1,0 +1,19 @@
+# # What is this?
+#
+# See: https://help.github.com/articles/about-codeowners/
+#
+# # Usage guidelines:
+#
+# `bench-www` is not "owned" by anyone. There are a number of engineers who are
+# familiar with `bench-www`, and they are capable of providing code reviews for pull
+# requests against the repo.
+#
+# The users listed in this CODEOWNERS file will be automatically requested to review every new
+# non-draft pull request.
+#
+# If you are on this list and don't want to be requested for reviews, you may remove yourself.
+#
+# When adding new users to this list, always add individuals rather than teams or groups. People
+# move around, and they don't leave their expertise behind.
+
+* @BenchLabs/ems
