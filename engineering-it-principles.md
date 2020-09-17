@@ -22,7 +22,7 @@
 - If we consistently exceed timelines, we’ll lose the trust of our colleagues and customers.
 - Time spent _not working at all_ makes us more effective during the time we spend working.
 - A timeline is most motivating when each person doing the work has personally committed to it.
-- Overtime is cheating.
+- Overtime is cheating. By working extra hours, you are providing a pressure relief valve on the time constraint, thereby robbing yourself of the conditions conducive - to creativity and growth.
 
 ## Seek Focus
 
