@@ -1,17 +1,16 @@
 # Principles in Engineering & IT
 
 ## Create Value
-- We produce value only when the work that we do improves the lives of our customers.
-- We do our best work when we see it as necessary to advance a cause that we believe in.
-- We ensure that our work is high value by nurturing, developing and sharing so many ideas that we can’t possibly do them all, and then choosing only those with the highest impact.
-- The more we learn, the greater our capacity for creating value.
-- Value creation doesn't happen when you finish a task, it happens when the thing you build is being used.
-- Learning about how our technology is used is essential to creating value, and we learn fastest by shipping early.
+- The speed at which we learn determines our success at creating value.
+- We are most likely to do high-value work when we see it as necessary to advance a cause that we believe in.
+- We ensure that our work is high value by nurturing, developing and sharing so many ideas that we can’t possibly do them all, and then choosing only those that will make the largest impact.
+- Value can only be created when the things that we built are being used.
+- We measure the value we create by how much it improves the lives of our customers.
 
 ## Foster Growth
 - Growth happens when an individual accepts the monumental challenge of continuously asking themselves: is this the best I can do?
 - To foster the growth of our colleagues—regardless of their job title—we must give them deeply honest feedback, and expect them to do the same for us.
-- Growth requires us to experience discomfort, but it can't happen if we feel unsafe.
+- To foster growth, we must create an environment where we can experience discomfort without feeling unsafe.
 - Feedback is most effective when those receiving it feel supported by those giving it.
 - Successes and failures are important because of what we learn from them. By sharing these learnings, we rapidly increase the entire team's knowledge.
 
