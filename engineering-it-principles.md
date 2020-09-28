@@ -1,16 +1,16 @@
 # Principles in Engineering & IT
 
 ## Create Value
-- The speed at which we learn determines our success at creating value.
+- The speed at which we learn is the most important factor in our ability to create value.
 - We are most likely to do high-value work when we see it as necessary to advance a cause that we believe in.
-- We ensure that our work is high value by nurturing, developing and sharing so many ideas that we can’t possibly do them all, and then choosing only those that will make the largest impact.
-- Value can only be created when the things that we built are being used.
+- We ensure that our work is of high value by nurturing, developing and sharing so many ideas that we can’t possibly do them all, and then choosing only those that will make the largest impact.
+- Value can only be created when the things that we have built are being used.
 - We measure the value we create by how much it improves the lives of our customers.
 
 ## Foster Growth
 - Growth happens when an individual accepts the monumental challenge of continuously asking themselves: is this the best I can do?
+- To grow, we must step into conversations that feel scary and uncomfortable, and we must learn to differentiate them from conversations that feel unsafe.
 - To foster the growth of our colleagues—regardless of their job title—we must give them deeply honest feedback, and expect them to do the same for us.
-- To foster growth, we must create an environment where we can experience discomfort without feeling unsafe.
 - Feedback is most effective when those receiving it feel supported by those giving it.
 - Successes and failures are important because of what we learn from them. By sharing these learnings, we rapidly increase the entire team's knowledge.
 
@@ -22,14 +22,3 @@
 - Time spent _not working at all_ makes us more effective during the time we spend working.
 - A timeline is most motivating when each person doing the work has personally committed to it.
 - Overtime is cheating. By working extra hours, you are providing a pressure relief valve on the time constraint, thereby robbing yourself of the conditions conducive - to creativity and growth.
-
-## Seek Focus
-
-TODO
-
-Notes
-
-Things like Craig/Jordan asking people to speak in the right channels
-Things like using knowledge bases instead of answering questions
-Build cycles
-Something about seeking focus in our own calendars
