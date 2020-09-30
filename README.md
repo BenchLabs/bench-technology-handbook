@@ -1,20 +1,20 @@
-# bench-engineering-handbook
-The Bench Engineering Handbook
+# The Bench Technology Organization Handbook
 
-To write (add link when complete):
+Welcome to our online handbook for employees in the Bench Technology organization! We have created this resource to describe at a high level what we're up to and how we go about doing it.s
 
-- Welcome
+_To write (add link when complete):_
+
 - Culture
-  - A test suite for our culture
-  - [Bench Principles](https://bench.co/go/culture)
-  - [Engineering & IT Principles](engineering-it-principles.md)
-- How we are organized
-  - Product Engineering
-  - Guilds
-  - Technology Services
+  - [Bench Principles (Public Website)](https://bench.co/go/culture)
+  - [Technology Principles](technology-principles.md)
+  - [How we use our principles](how-we-use-our-principles.md)
 - How we deliver
   - Roadmap/Chores/Requests/Support
   - Build Cycles
+- How we are organized
+  - Product Engineering
+  - Guilds
+  - BizTech
 - How we measure success
   - KPIs (SRE & Delivery)
   - OKRs
@@ -26,6 +26,6 @@ To write (add link when complete):
   - Leaders within teams
   - Competencies of high-performing teams heatmap
 - Compensation
-  - [Employee Value Proposition](employee-value-proposition.md)
   - [How we set salaries](how-we-set-salaries.md)
 - How to quit
+
