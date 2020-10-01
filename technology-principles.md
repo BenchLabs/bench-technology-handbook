@@ -1,4 +1,4 @@
-# Principles in Engineering & IT
+# Technology Principles
 
 ## Create Value
 - The speed at which we learn is the most important factor in our ability to create value.
