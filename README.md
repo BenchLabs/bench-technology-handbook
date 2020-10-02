@@ -1,23 +1,23 @@
 # The Bench Technology Organization Handbook
 
-Welcome to our online handbook for employees in the Bench Technology organization! We have created this resource to describe at a high level what we're up to and how we go about doing it.s
+Welcome to our online handbook for employees in the Bench Technology organization! We have created this resource to describe at a high level what we're up to and how we go about doing it.
 
 _To write (add link when complete):_
 
 - Culture
+  - [How we use our principles](how-we-use-our-principles.md)
   - [Bench Principles (Public Website)](https://bench.co/go/culture)
   - [Technology Principles](technology-principles.md)
-  - [How we use our principles](how-we-use-our-principles.md)
 - How we deliver
-  - Roadmap/Chores/Requests/Support
+  - [On Technology Investment](on-technology-investment.md)
   - Build Cycles
 - How we are organized
   - Product Engineering
+  - BizTech (Platform, Data, IT)
   - Guilds
-  - BizTech
 - How we measure success
-  - KPIs (SRE & Delivery)
   - OKRs
+  - KPIs (SRE & Delivery)
 - When something breaks
   - Blameless
   - 5 whys

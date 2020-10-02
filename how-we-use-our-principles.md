@@ -1,6 +1,6 @@
 # How we use our principles
 
-Before reading this guide, please read the detailed description of the [Bench Principles](https://bench.co/go/culture/) and the [Technology Principles](technology-principles.md).
+Before reading this guide, please read the [Bench Principles](https://bench.co/go/culture/) and [Technology Principles](technology-principles.md).
 
 ## Why principles?
 
