@@ -1,10 +1,10 @@
 # On Technology Investment
 
-In the Technology organization, we spend the vast majority of our budget on salaries. Put simply, Bench is investing heavily in our time so that we can figure out how to have impact at scale using technology.We honour this investment by being intentional with and open about how we spend our time. This page provides a framework for how we differentiate between different types of investment, and how ensure that we're providing the best return.
+In the Technology organization, we spend the vast majority of our budget on salaries. Put simply, Bench is investing heavily in our time so that we can figure out how to have impact at scale using technology. We honour this investment by being intentional with and open about how we spend our time. This page provides a framework for how we differentiate between different types of investment, and how ensure that we're providing the best return.
 
 ## Bench Technology Hierarchy of Needs
 
- The time we spend creating technology can be broken into three parts: keeping the lights on, supporting our stakeholders, and innovating our technology. These three categories can be visualized as a hierarchy of needs.
+ The time we spend creating technology can be broken into three parts: keeping the lights on, supporting our stakeholders, and innovating our technology. These three categories can be visualized as a hierarchy of needs. In the following sections, we'll describe how we define and invest in each part.
 
 ![Bench Technology Hierarchy of Needs](images/hierarchy-of-needs.jpg)
 
@@ -16,21 +16,21 @@ Reacting to the things listed above is the single most important thing we do as 
 
 ### Investing in KTLO 
 
-KTLO is very important, and utterly low-leverage. If we are successful in keeping the lights on, the net result is that _nothing changes_. Because of this, we try to minimize the amount of time we need to spend in this space.
+KTLO is very important, and utterly low return. If we are successful in keeping the lights on, the net result is that _nothing changes_. Because of this, we minimize the amount of time we spend keeping the lights on.
 
 ## Support
 
-Our technology was built to support other people. Our infrastructure supports our Product Engineers. Our data pipelines support our analysts. Benchmates rely on the physical hardware that we purchase and configure. Our Operations teams use our tools 40 hours per week. Our clients rely on our app to understand their financials.
+Our technology was built to support other people: Our infrastructure supports our Product Engineers. Our data pipelines support our analysts. Benchmates rely on the physical hardware that we purchase and configure. Our Operations teams use our tools 40 hours per week. Our clients rely on our app to understand their financials.
 
-These folks make requests of us on a daily basis. Engineers need changes to infrastructure. Analysts need new views and data sources. Benchmates need access to new software. Operations needs to change permissions for users. AAs need tweaks in their workflow. Messages need to be deleted from the message feed. Clients want us to delete their data. Etc, etc.
+These folks make requests of us on a daily basis: Engineers need changes to infrastructure. Analysts need new views and data sources. Benchmates need access to new software. Operations needs to change permissions for users. AAs need tweaks in their workflow. Messages need to be deleted from the message feed. Clients want us to delete their data. Etc, etc.
 
 While not as critical as KTLO, supporting the people who use our technology is hugely important to the success of our company. If we don’t do this, people will get blocked, or choose non-secure workarounds, or work inefficiently, or quit, or churn. 
 
 ### Investing in Support 
 
-Some support work is low-leverage, like deleting a message from the message feed, and some of it is high-leverage, like creating a view that analysts use for months. To satisfy our stakeholders, both types of work need to happen.
+Some support work is has a low return on investment, like deleting a message from the message feed. Some has a much better return, like creating a view that analysts use for months. If we're lazy, and say yes to every single request we get, the return on our support investment is exactly proportional to the quality of the requests that we get.
 
-If we're lazy, and say yes to every single request we get, the leverage of our support investment is exactly proportional to the requests that we get. There are two ways to counter this. The first is to limit the time we have for support, which forces us to prioritize requests based on their impact. The second is to invest in innovation that either automates or at least significantly reduces the work required for support tasks.
+Unlike KTLO, it is possible for us to say "no" (or more commonly, "not right now") to support work. This is a very important concept. In order to maximize the return we get on our support investment, we need to ask our stakeholders to communicate the priority of their requests—this will only happen if we give ourselves the power to say "no" to at least some of their requests.
 
 ## Innovate
 
