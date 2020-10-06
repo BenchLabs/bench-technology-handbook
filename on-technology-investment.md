@@ -1,10 +1,10 @@
 # On Technology Investment
 
-In the technology organization, we spend the vast majority of our budget on salaries. We honour this investment from Bench by being intentional with and open about how we spend our time. This guide provides a framework for how we think about our time investment, and how we ensure that we're investing it responsibly.
+In the Technology organization, we spend the vast majority of our budget on salaries. Put simply, Bench is investing heavily in our time so that we can figure out how to have impact at scale using technology.We honour this investment by being intentional with and open about how we spend our time. This page provides a framework for how we differentiate between different types of investment, and how ensure that we're providing the best return.
 
 ## Bench Technology Hierarchy of Needs
 
- The time we spend creating technology can be broken into three parts: keeping the lights on, supporting our stakeholders, and innovating our technology. These three categories can be visualized as a hierarchy of needs. 
+ The time we spend creating technology can be broken into three parts: keeping the lights on, supporting our stakeholders, and innovating our technology. These three categories can be visualized as a hierarchy of needs.
 
 ![Bench Technology Hierarchy of Needs](images/hierarchy-of-needs.jpg)
 
@@ -30,7 +30,7 @@ While not as critical as KTLO, supporting the people who use our technology is h
 
 Some support work is low-leverage, like deleting a message from the message feed, and some of it is high-leverage, like creating a view that analysts use for months. To satisfy our stakeholders, both types of work need to happen.
 
-If we're lazy, and say yes to every single request we get, the leverage of our support investment is exactly proportional to the requests that we get. There are two ways to counter this. The first is to limit the time we have for support, which forces us to prioritize requests based on their impact. The second is to invest in innovation that either automates or at least significantly reducse thee work required for support tasks.
+If we're lazy, and say yes to every single request we get, the leverage of our support investment is exactly proportional to the requests that we get. There are two ways to counter this. The first is to limit the time we have for support, which forces us to prioritize requests based on their impact. The second is to invest in innovation that either automates or at least significantly reduces the work required for support tasks.
 
 ## Innovate
 
