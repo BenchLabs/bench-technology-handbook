@@ -1,5 +1,9 @@
 # Technology Principles
 
+This page is a reference for the Technology principles and their supporting assertions. 
+
+_[Learn how to use these principles](culture-and-principles.md)_
+
 ## Create Value
 - The speed at which we learn is the most important factor in our ability to create value.
 - We are most likely to do high-value work when we see it as necessary to advance a cause that we believe in.
@@ -12,7 +16,7 @@
 - To grow, we must step into conversations that feel scary and uncomfortable, and we must learn to differentiate them from conversations that feel unsafe.
 - To foster the growth of our colleagues—regardless of their job title—we must give them deeply honest feedback, and expect them to do the same for us.
 - Feedback is most effective when those receiving it feel supported by those giving it.
-- Successes and failures are important because of what we learn from them. By sharing these learnings, we rapidly increase the entire team's knowledge.
+- Successes and failures are important because of what we learn from them.
 
 ## Honour Time
 - By intentionally limiting the amount of time we spend on our problems, we are adding a constraint that asks us to be continuously creative while solving them.
