@@ -20,7 +20,7 @@ KTLO is utterly critical, and utterly low return. If we are successful in keepin
 
 ## Support
 
-Our technology was built to support other people: Our infrastructure supports our Product Engineers. Our data pipelines support our analysts. Benchmates rely on the physical hardware that we purchase and configure. Our Operations teams use our tools 40 hours per week. Our clients rely on our app to understand their financials.
+Our technology was built to support other people. Our infrastructure supports our Product Engineers. Our data pipelines support our analysts. Benchmates rely on the physical hardware that we purchase and configure. Our Operations teams use our tools 40 hours per week. Our clients rely on our app to understand their financials.
 
 These folks make requests of us on a daily basis: Engineers need changes to infrastructure. Analysts need new views and data sources. Benchmates need access to new software. Operations needs to change permissions for users. AAs need tweaks in their workflow. Messages need to be deleted from the message feed. Clients want us to delete their data. Etc, etc.
 
@@ -38,7 +38,7 @@ Saying "no" also gives us additional time to implement innovative ways of reduci
 
 > innovate (v.) - "bring in new things, alter established practices", from Latin _innovatus_ "to renew, restore;" also "to change," from _in_- "into" + _novus_ "new".
 
-Default open: it's cliché to use a dictionary definition in a handbook...99.9% of the time. I argue that this one is actually helpful as it illustrates¸ the two possible interpretations of _innovation_: the creation of new things, and the change, renewal, or restoration of existing things.
+Default open: it's cliché to use a dictionary definition in a handbook...99.9% of the time. I argue that this one is actually helpful as it illustrates the two possible interpretations of _innovation_: the creation of new things, and the change, renewal, or restoration of existing things.
 
 Our Product Engineering group is concerned primarily with the former interpretation. We invest very heavily in creating new technology that we believe can alter the trajectory of our business. We have become the most efficient full-service bookkeeping company in the world because of years of innovation, and our efforts in the banking space will further impact our ability to impact people at scale.
 
@@ -46,8 +46,8 @@ Our Business Technology group is primarily concerned with the latter interpretat
 
 ### Investing in Innovation
 
-Investment in Innovation is high risk, and high reward. It is also entirely discretionary: indeed Bench could choose to not invest in technological innovation at all. We won't, however, because doing so would be accepting the status quo, and we're not even close to where we want to be yet.
+Investment in Innovation is high risk, and high reward—we can't know the impact of a new thing until people are using it. It is also entirely discretionary; indeed Bench could choose to not invest in technological innovation at all. We won't, however, because doing so would be accepting the technological status quo, and we're not even close to where we want to be yet.
 
-In addition—as mentioned in _Investing in Support_ above—investing time in innovation also forces us limit the time we have for Support requests, which forces us to figure out how to prioritize them, which maximized the return on our Support investment.
+The Product Engineering group invests very heavily in innovation—everything other than the Flex Track and Cooldown is 100% innovation. The amount we invest is directly related to our overall strategy, and is therefore decided by Senior Leadership (and subject to board approval). In contrast, the Business Technology group invests a much smaller proportional amount in innovation. The BizTech teams all scale based on the complexity of our business. This auto-scaling is designed to ensure that the teams always have enough bandwidth to innovate.
 
-In Product Engineering, we invest roughly 75% of our time in Innovation. In Business Technology, it's a much smaller amount, about 25%.
+As mentioned in _Investing in Support_ above, investing in innovation also forces us limit the time we have for Support requests, which forces us to figure out how to prioritize them, which maximizes the return on our Support investment.
