@@ -1,13 +1,13 @@
 # The Bench Technology Organization Handbook
 
-Welcome to the online handbook for employees in the Bench Technology organization! We have created this resource to describe at a high level what we're up to and how we go about doing it.
+Welcome to the online handbook for the Bench Technology organization! We have created this resource to describe at a high level what we're up to and how we go about doing it.
 
-This is a scrappy, default open resource. We're releasing it as an imperfect early version because we believe it provides more value in the hands of our team today than a perfect version will 6 months from now. We will continue to iterate on it forever, so keep an eye on those commits!
+This is a scrappy, default open resource. We're releasing this imperfect early version because we believe it provides more value in the hands of our team today than a perfect version will 6 months from now. We will continue to iterate on it forever, so keep an eye on those commits!
 
 ## Contents
 
 - Culture
-  - [How we use our principles](how-we-use-our-principles.md)
+  - [How we use our principles](technology-principles.md)
   - [Bench Principles (Public Website)](https://bench.co/go/culture)
   - [Technology Principles](technology-principles.md)
 - How we are organized

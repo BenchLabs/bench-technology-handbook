@@ -1,6 +1,6 @@
 # How we invest our time
 
-In the Technology organization, we spend the vast majority of our budget on salaries—time is our currency. Bench is investing heavily in our time so that we can figure out how to have impact at scale using technology. We honour this investment by being intentional with and open about how we invest our time. This page provides a framework for how we differentiate between different types of investment, and how we ensure that we're providing the best return.
+In the Technology organization, we spend the vast majority of our budget on salaries. _Time_ is our currency. Bench is investing heavily in our time so that we can figure out how to have impact at scale using technology. We honour this investment by being intentional with and open about how we invest our time. This page provides a framework for how we differentiate between different types of investment, and how we ensure that we're providing the best return.
 
 ## Bench Technology Hierarchy of Needs
 
@@ -38,15 +38,15 @@ Saying "no" also gives us additional time to implement innovative ways of reduci
 
 > innovate (v.) - "bring in new things, alter established practices", from Latin _innovatus_ "to renew, restore;" also "to change," from _in_- "into" + _novus_ "new".
 
-Default open: it's cliché to use a dictionary definition in a handbook...99.9% of the time. I argue that this one is actually helpful as it helps us see the two possible interpretations of _innovation_: the creation of new things, and the change, renewal, or restoration of existing things.
+Default open: it's cliché to use a dictionary definition in a handbook...99.9% of the time. I argue that this one is actually helpful as it illustrates¸ the two possible interpretations of _innovation_: the creation of new things, and the change, renewal, or restoration of existing things.
 
-Our Product Engineering group is concerned primarily with the former. We invest very heavily in creating new technology that we believe can alter the trajectory of our business. We have become the most efficient full-service bookkeeping company in the world because of years of innovation, and our efforts in the banking space will further impact our ability to impact people at scale.
+Our Product Engineering group is concerned primarily with the former interpretation. We invest very heavily in creating new technology that we believe can alter the trajectory of our business. We have become the most efficient full-service bookkeeping company in the world because of years of innovation, and our efforts in the banking space will further impact our ability to impact people at scale.
 
-Our Business Technology group is primarily concerned with the latter interpretation of innovation. The group spends the majority of its time on KTLO and Support, so it's natural that many of the innovations they come up are designed to improve their ability and efficiency in keeping the lights on and supporting other teams. For example, they can reduce the KTLO burden with things like automated code scanning and monitorsm, and they can reduce the support burden by empowering our stakeholders to support themselves (think Retool and Contentful).
+Our Business Technology group is primarily concerned with the latter interpretation of innovation. The group spends the majority of its time on KTLO and Support, so it's natural that many of the innovations they come up are designed to improve their efficiency in keeping the lights on and supporting other teams. For example, they can reduce the KTLO burden with things like automated code scanning and monitors, and they can reduce the support burden by empowering stakeholders to support themselves (think Retool and Contentful).
 
 ### Investing in Innovation
 
-Investment in Innovation is high risk, and high reward. It is also entirely discretionary: indeed Bench _could_ choose to not invest in technological innovation. We won't, however, because doing so would be accepting the status quo, and we're not even close to where we want to be yet.
+Investment in Innovation is high risk, and high reward. It is also entirely discretionary: indeed Bench could choose to not invest in technological innovation at all. We won't, however, because doing so would be accepting the status quo, and we're not even close to where we want to be yet.
 
 In addition—as mentioned in _Investing in Support_ above—investing time in innovation also forces us limit the time we have for Support requests, which forces us to figure out how to prioritize them, which maximized the return on our Support investment.
 

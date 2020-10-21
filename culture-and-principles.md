@@ -52,7 +52,7 @@ _We recommended taking a [deep dive](https://bench.co/go/culture/) if you aren't
 
 These principles are designed to describe the _how we do it_ aspect of our culture. They intentionally read like instructions, and  are broad enough to apply to everything you do at work: writing an email, messaging a colleague, brainstorming with your team, commenting on a document, etc. They are designed to be in tension with each other. For example, _Be Responsible_ is often in direct tension with _Get Scrappy_, and _Keep it Human_ is often in tension with _Default Open_.
 
-You can think of the five principles as the boundaries for conversations that are consistent with our culture—a bit like a [DVD logo bouncing around a screen](https://thumbs.gfycat.com/BackJitteryCuttlefish.webp). If a conversation exists within the boundaries of these principles, is is consistent with Bench's culture.
+You can think of the five principles as the boundaries for conversations that are consistent with our culture. If a conversation exists within the boundaries of these principles, is is consistent with Bench's culture.
 
 Next, let's look at the Technology Principles:
 
@@ -60,7 +60,7 @@ Next, let's look at the Technology Principles:
 - Foster Growth
 - Honour Time
 
-_We recommended taking a [deep dive](technology-principles.md) if you aren't yet familiar with these principles._
+_[Technology Principles Reference](technology-principles.md)_
 
 Where the Bench principles are _how we do it_, the Technology principles are _what we do_. Like the Bench principles, they are designed to be in tension with each other. The ideal state looks like this:
 
@@ -74,11 +74,11 @@ As mentioned above, the Bench principles give instructions for _how we do it_, a
 
 ![Image of principles matrix](images/principles-matrix.png)
 
-So, when we have conversations about _Creating Value_, _Fostering Growth_, and _Honouring Time_, we must ensure that they _also_ honour the Bench principles. If this all seems a bit complicated, don't worry: there's a system.
+So, when we have conversations about _Creating Value_, _Fostering Growth_, and _Honouring Time_, we must ensure that they live within the boundaries set by _Keep it Human_, _Be Responsible_, _Get Scrappy_, _Take a Stand_, and _Default Open_. If this all seems a bit complicated, don't worry: there's a system.
 
 ## A test suite for our culture
 
-Each of the [Technology Principles](technology-principles.md) has a set of supporting principles. _Create Value_, _Foster Growth_, and _Honour Time_ are instructions, and the supporting principles are assertions. Within the domain of its parent principle, the supporting principles map loosely to the Bench Principles.
+Each of the [Technology Principles](technology-principles.md) has a set of supporting principles. _Create Value_, _Foster Growth_, and _Honour Time_ are instructions, and the supporting principles are assertions. These assertions answer the question: "what needs to be true for a conversation to be consistent with this principle?" Though this isn't a hard requirement, we've found that each assertion maps nicely to a Bench principle. This has a really interesting side effect: each assertion effectively becomes a unit test for a conversation.
 
 For example, the supporting principle `We are most likely to do high-value work when we see it as necessary to advance a cause that we believe in.` Is a way to "test" whether a conversation is consistent with both _Create Value_ and _Take a Stand_. Similarly, `Successes and failures are important because of what we learn from them.` is a way to "test" whether a conversation is consistent with both _Foster Growth_ and _Default Open_.
 
@@ -87,9 +87,16 @@ All together, the supporting principles act as a test suite for our culture. Eve
 Consider the following (made up but not uncommon) conversation: 
 
 ```
-Manager: In our last meeting, we talked about creating goals for [the thing you want to improve]. Can you share what you came up with?
-Engineer: To be honest, I didn't have time to think about this because of the deadline I'm working on right now.
-Manager: I totally get it. Let's come back to this when you're less busy.
+Manager: 
+In our last meeting, we talked about creating goals for [the thing you want to improve]. 
+Can you share what you came up with?
+
+Engineer: 
+To be honest, I didn't have time to think about this because of the deadline 
+I'm working on right now.
+
+Manager: 
+I totally get it. Let's come back to this when you're less busy.
 ```
 
 If we run this through the test suite, it flags two supporting principles:
@@ -103,13 +110,25 @@ This tells us that this conversation is not consistent with our culture, and it 
 Guided by our principles, a subsequent conversation could be:
 
 ```
-Manager: Last time we spoke I let you off the hook. You used a deadline as an excuse for not prioritizing your own growth, and I let you do it. Your growth is just as important as that deadline! So today, we're going to figure out how to make time for it.
-Engineer: To be honest it's just really hard to find time to think about myself.
-Manager: We find time for whatever we consider to be our top priority. I'm asking you to raise the priority of your growth. Can you take this on, and give me your goals at our one-on-one next week?
-Engineer: You know what? I've been putting this off for too long. I'll give them to you by tomorrow so we can review them async before our meeting.
+Manager: 
+Last time we spoke I let you off the hook. You used a deadline as an excuse for 
+not prioritizing your own growth, and I let you do it. Your growth is just as important 
+as that deadline! So today, we're going to figure out how to make time for it.
+
+Engineer: 
+To be honest it's just really hard to find time to think about myself.
+
+Manager:
+We find time for whatever we consider to be our top priority. I'm asking you 
+to raise the priority of your growth. Can you take this on, and give me your goals at 
+our one-on-one next week?
+
+Engineer:
+You know what? I've been putting this off for too long. I'll give them to you 
+by tomorrow so we can review them async before our meeting.
 ```
 
-This time, the manager steps right into the uncomfortable situation, and doesn't let the engineer off the hook for de-prioritizing their own growth. Notice that this is done with respect and compassion—there is no blame placed, and it is phrased in a supportive manner. As a result the engineer gets fired up by suddenly seeing that they can make space for their own growth, and goest beyond the original request from their manager. _This_ conversation was consistent with our culture, and it sets up their next conversation as well.
+This time, the manager steps right into the uncomfortable situation, and doesn't let the engineer off the hook for de-prioritizing their own growth. Notice that this is done with respect and compassion—there is no blame placed, and it is phrased in a supportive manner. As a result the engineer gets fired up by suddenly seeing that they can make space for their own growth, and goes beyond the original request from their manager. _This_ conversation is consistent with our culture, and it sets up their next conversation as well.
 
 In the event that a conversation doesn't flag any supporting principles and _still_ feels inconsistent with our culture, we're probably just missing a supporting principle. If this happens, bring the conversation to your manager so you can run it through the test suite together and identify what's missing—as our culture matures, our test suite
  must mature with it.
