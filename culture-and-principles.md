@@ -15,9 +15,9 @@ With this mental model, we have no choice but to accept that every single person
 We've all been culture creators our entire lives, whether we knew it or not. Here's an example:
 
 _You're at the pub with a group of friends, having a casual chat, when one of the people at the table 
-participates in the conversation by saying something innapropriate. 
+participates in the conversation by saying something inappropriate. 
 There is a pause, where everyone says to themselves: "do I say something?"
-If nothing is said, the innapropriate conversation is deemed to be acceptable (at least by the perpetrator), and they may continue to act the way they've acted.
+If nothing is said, the inappropriate conversation is deemed to be acceptable (at least by the perpetrator), and they may continue to act the way they've acted.
 If something is said, the opposite occurs: a culture of standing up for a moral code is solidified, and the perpetrator will either need to change their ways, or find another table._
 
 If we think of culture as the sum of all conversations, we can sketch this out as a formula:
@@ -25,11 +25,11 @@ If we think of culture as the sum of all conversations, we can sketch this out a
 ```
 If no one says anything:
 
-All the conversations we've had + the innapropriate thing that was said = our culture
+All the conversations we've had + the inappropriate thing that was said = our culture
 
 If someone says something:
 
-All the conversations we've had + the innapropriate thing that was said + a conversation about how that comment isn't acceptable = our culture
+All the conversations we've had + the inappropriate thing that was said + a conversation about how that comment isn't acceptable = our culture
 ```
 
 It's that simple: one conversation changes the culture, and another may correct its course.

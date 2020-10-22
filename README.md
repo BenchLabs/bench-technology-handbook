@@ -12,7 +12,7 @@ This is a scrappy, default open resource. We're releasing this imperfect early v
   - [Technology Principles](technology-principles.md)
   - [Blameless Culture (blog post)](https://medium.com/bench-engineering/breaking-good-55fed1d81aac)
 - How we are organized
-  - Product Engineering & BizTech
+  - [Product Engineering & BizTech](product-engineering-and-biztech.md)
   - Guilds
 - How we deliver
   - [How we invest our time](how-we-invest-our-time.md)
