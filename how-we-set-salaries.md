@@ -8,7 +8,7 @@ At Bench, there are two key components of salary: market value and competency. *
 
 ### How we determine market value
 
-The first step in determining market value is cleary defining the roles in your organization. At Bench we chose to use numbered levels for our engineers—we go from Engineer 1 to Engineer 5. For each level, we defined a very clear set of competencies (see Competencies by Role).
+The first step in determining market value is cleary defining the roles in your organization. At Bench we chose to use numbered levels for our engineers—we go from Engineer 1 to Engineer 5. For each level, we defined a very clear set of competencies (see [Competencies by Role](https://docs.google.com/spreadsheets/d/1rV2q8TJaY8gHhuAhXaHBLJdld3XLdJG-UbL706SkCAY/edit#gid=221997572)).
 
 Once our roles were clearly defined, we compared them to the two salary databases that we purchase on an annual basis (Radford and HR Tech). Salary databases collect data from thousands of companies each year. For each job title, they provide the median and mean salaries at the 50th, 75th, and 90th percentile. The basic idea is that you find matches in their database for the roles in your organization, and then use their data to set a competitive salary midpoint—in our case, the 75th percentile.
 
@@ -27,9 +27,11 @@ Salary bands set the market context for salary in a role, and competency determi
 
 This bullet list looks quite simple, but in reality these sessions are full of deeply honest conversations about growth. They remove the guesswork and ideally a significant amount of bias from the process of setting a salary.
 
-### What if the market changes?
+### How do we handle changes in market value?
 
 Once we've assessed competency and used it to determine salary, we can determine compa-ratio (midpoint divided by salary). Compa-ratio is useful because if the job market changes and salary midpoints are higher, we can simply multiply these midpoints by the compa-ratio to determine updated salaries. This is significantly more efficient than re-reviewing every time the market changes. It's also worth noting that we never decrease salaries when the market goes down, but we are open to increasing them when the market goes up.
+
+We commit to reviewing market data and updating salary bands once per year.
 
 ## Promotions
 
@@ -39,7 +41,7 @@ Salary bands can be large, and this is on purpose. They are designed to overlap 
 
 This is useful for a number of reasons:
 
-- It gives us flexibility to give our team members titles that motivate them, even if their competency is currently the same or even less than a high performer in a lower role.
+- It gives us flexibility to promote early to encourage growth
 - In situations where positions are potentially limited, like Engineering Managers, it allows us to continue to give salary increases while we seek out a promotion opportunity.
 - A “downside” of overlapping bands is that promotions don’t come with massive salary increases. This is actually an upside, because it allows us to steadily hand more and more responsibility to a team member as they approach the promotion threshold, such that when we do finally make the leap, the transition is much smoother for all parties.
 - There isn’t a hard compa-ratio cutoff for promotion. Each case will be evaluated individually based on the current available positions, the needs of the team, and the interest of the individual. When the promotion occurs, the team member will go through the competency assessment process for their new role to determine compensation.
