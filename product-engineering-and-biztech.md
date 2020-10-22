@@ -4,13 +4,13 @@ The Technology organization is made up of two groups: **Product Engineering** an
 
 ## Product Engineering
 
-The Product Engineering group owns and develops our client applications and the internal tools for our operations teams. This team is the largest component in Bench's investment in product innovation. Functionaly, the group has two tracks: **Focus** and **Flex**.
+The Product Engineering group owns and develops our client applications and the internal tools for our operations teams. This team is the largest component in Bench's investment in product innovation. Functionally, the group has two tracks: **Focus** and **Flex**.
 
 **Focus**
 
-The Focus track works in build cycles based on the model described in [Shape Up](https://basecamp.com/shapeup/webbook). This system optmizes for two things. First, it ensures that that what we're working on _right now_ aligns with Bench's strategy. Second, it ensures the creation of value on a regular cadence—projects aren't allowed to take longer than the build cycle. How it works:
+The Focus track works in build cycles based on the model described in [Shape Up](https://basecamp.com/shapeup/webbook). This system optimizes for two things. First, it ensures that that what we're working on _right now_ aligns with Bench's strategy. Second, it ensures the creation of value on a regular cadence—projects aren't allowed to take longer than the build cycle. How it works:
 
-Every 8ish weeks the Product team (in collaboration with Engineering and Design) submit pitches for projects for the coming cycle, and senior leaders bet on the ones that they believe will have the biggest impact for our clients. The engineers (in collaboration with Product and Design) then spend 6 focused weeks on the projects that were chosen, and deliver the maximum value that we can within this timeframe. This is followed by 2 weeks of cooldown to handle the various maintenance, refactors, and improvements that have been tabled for the previous six weeks. If a project isn't finished, it can be re-bet upon in the coming cycle.
+Every 8ish weeks the Product team (in collaboration with Engineering and Design) submits pitches for projects for the coming cycle, and senior leaders bet on the ones that they believe will have the biggest impact for our clients. The engineers (in collaboration with Product and Design) then spend 6 focused weeks on the projects that were chosen, and deliver the maximum value that we can within this timeframe. This is followed by 2 weeks of cooldown to handle the various maintenance, refactors, and improvements that have been tabled for the previous six weeks. If a project isn't finished, it can be re-bet upon in the coming cycle.
 
 **Flex**
 
@@ -26,7 +26,7 @@ The Platform team owns our cloud infrastructure, our build pipeline, and our dev
 
 **Data**
 
-The Data team owns our data pipeline and warehouse. They create the data infrastructure required for us to make business decisions with ever-increseing speed and accuracy. They also have an in house analyst function for supporting the Product team in their decisions.
+The Data team owns our data pipelines and warehouse. They create the data infrastructure required for us to make business decisions with ever-increasing speed and accuracy. They also have an in-house analyst function for supporting the Product team in their decisions.
 
 **IT**
 

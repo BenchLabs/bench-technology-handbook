@@ -14,11 +14,11 @@ With this mental model, we have no choice but to accept that every single person
 
 We've all been culture creators our entire lives, whether we knew it or not. Here's an example:
 
-You're at the pub with a group of friends, having a casual chat, when one of the people at the table 
-participates in the conversation by saying something inappropriate. 
+_You're at the pub with a group of friends, having a casual chat, when one of the people at the table 
+participates in the conversation by saying something innapropriate. 
 There is a pause, where everyone says to themselves: "do I say something?"
 If nothing is said, the innapropriate conversation is deemed to be acceptable (at least by the perpetrator), and they may continue to act the way they've acted.
-If something is said, the opposite occurs: a culture of standing up for a moral code is solidified, and the perpetrator will either need to change their ways, or find another table.
+If something is said, the opposite occurs: a culture of standing up for a moral code is solidified, and the perpetrator will either need to change their ways, or find another table._
 
 If we think of culture as the sum of all conversations, we can sketch this out as a formula:
 
@@ -54,13 +54,11 @@ These principles are designed to describe the _how we do it_ aspect of our cultu
 
 You can think of the five principles as the boundaries for conversations that are consistent with our culture. If a conversation exists within the boundaries of these principles, it is consistent with Bench's culture.
 
-Next, let's look at the Technology Principles:
+Next, let's look at the _[Technology Principles](technology-principles.md)_:
 
 - Create Value
 - Foster Growth
 - Honour Time
-
-_[Technology Principles Reference](technology-principles.md)_
 
 Where the Bench principles are _how we do it_, the Technology principles are _what we do_. Like the Bench principles, they are designed to be in tension with each other. The ideal state looks like this:
 
@@ -102,14 +100,26 @@ I totally get it. Let's come back to this when you're less busy.
 If we run this through the test suite, we see multiple failures:
 
 **Create Value**
-- `The speed at which we learn is the most important factor in our ability to create value.`
+```
+Failure: The speed at which we learn is the most important factor in our ability to create value.
+Reason: Prioritizing a deadline over growth limits the speed of learning.
+```
+
 
 **Foster Growth**
-- `Growth happens when an individual accepts the monumental challenge of continuously asking themselves: is this the best I can do?`
-- `To grow, we must step into conversations that feel scary and uncomfortable, and we must learn to differentiate them from conversations that feel unsafe.`
+```
+Failure: Growth happens when an individual accepts the monumental challenge of continuously asking themselves: is this the best I can do?
+Reason: Using a deadline as an excuse for not focusing on their own growth.
+
+Failure: To grow, we must step into conversations that feel scary and uncomfortable, and we must learn to differentiate them from conversations that feel unsafe.
+Reason: Letting them off the hook for being busy instead of intervening in the excuse and standing for their growth.
+```
 
 **Honour Time**
-- `Learning and doing are not separate endeavors. Within the time we allocate to a problem, we must account for both the need to deliver a solution and the need to properly learn _how_ to deliver it.`
+```
+Failure: Learning and doing are not separate endeavors. Within the time we allocate to a problem, we must account for both the need to deliver a solution and the need to properly learn _how_ to deliver it.
+Reason: Somewhere in the planning process a deliverable was agreed on that didn't provide time for learning.
+```
 
 This tells us that this conversation is not consistent with our culture, and it also gives us a starting place for how to have the _next_ conversation to get back on track. In this case two things are happening: the engineer is letting a deadline take priority over their own growth, and the manager is letting it happen—despite having committed to the `Learning and doing...` and `The speed at which we learn..` supporting principles. That's not how we create value, foster growth, or honour time!
 
@@ -125,7 +135,7 @@ Engineer:
 To be honest it's just really hard to find time to think about myself.
 
 Manager:
-We find time for whatever we consider to be our top priority. Growth is a long-term invesment 
+We find time for whatever we consider to be our top priority. Growth is a long-term investment 
 and you need to keep making instalments! So, I'm asking you to raise the priority of your growth. 
 This might result in a temporary slowdown in your project. To be clear: I'm okay with that.
 Can you take this on, and give me your goals at our one-on-one next week?

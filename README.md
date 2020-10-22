@@ -7,7 +7,7 @@ This is a scrappy, default open resource. We're releasing this imperfect early v
 ## Contents
 
 - Culture
-  - [How we use our principles](culture-and-principles.md)
+  - [Culture and Principles](culture-and-principles.md)
   - [Bench Principles (Public Website)](https://bench.co/go/culture)
   - [Technology Principles](technology-principles.md)
   - [Blameless Culture (blog post)](https://medium.com/bench-engineering/breaking-good-55fed1d81aac)
