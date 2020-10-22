@@ -26,7 +26,7 @@ The Platform team owns our cloud infrastructure, our build pipeline, and our dev
 
 **Data**
 
-The Data team owns our data pipelines and warehouse. They create the data infrastructure required for us to make business decisions with ever-increasing speed and accuracy. They also have an in-house analyst function for supporting the Product team in their decisions.
+The Data team owns our data pipelines and warehouse. They create the data infrastructure required for us to make business decisions with ever-increasing speed and accuracy, _and lead data analysts across Bench in adopting better technology and practices to accomplish this_. They test their data infrastructure and processes by serving the Product team directly as analysts, and by filling any gaps in reporting and analysis that emerge from requests of analysts outside the Data team.
 
 **IT**
 
