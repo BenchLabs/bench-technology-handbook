@@ -12,17 +12,17 @@ _[Learn how to use these principles](culture-and-principles.md)_
 - We measure the value we create by how much it improves the lives of our customers.
 
 ## Foster Growth
-- Growth happens when an individual accepts the monumental challenge of continuously asking themselves: is this the best I can do?
-- To grow, we must step into conversations that feel scary and uncomfortable, and we must learn to differentiate them from conversations that feel unsafe.
+- Growth happens when an individual continuously asks themselves: is this the best I can do?
+- To grow, we must step into conversations that feel scary and uncomfortable.
 - To foster the growth of our colleagues—regardless of their job title—we must give them deeply honest feedback, and expect them to do the same for us.
 - Feedback is most effective when those receiving it feel supported by those giving it.
 - Successes and failures are important because of what we learn from them.
 
 ## Honour Time
-- By intentionally limiting the amount of time we spend on our problems, we are adding a constraint that asks us to be continuously creative while solving them.
+- Limited time == more creativity
+- Overtime is cheating!
 - Learning and doing are not separate endeavors. Within the time we allocate to a problem, we must account for both the need to deliver a solution and the need to properly learn _how_ to deliver it.
 - If we never exceed a timeline, we’ll never know how fast we can actually go.
 - If we consistently exceed timelines, we’ll lose the trust of our colleagues and customers.
 - Time spent _not working at all_ makes us more effective during the time we spend working.
 - A timeline is most motivating when each person doing the work has personally committed to it.
-- Overtime is cheating. By working extra hours, you are providing a pressure relief valve on the time constraint, thereby robbing yourself of the conditions conducive - to creativity and growth.
