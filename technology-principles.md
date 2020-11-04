@@ -20,7 +20,7 @@ _[Learn how to use these principles](culture-and-principles.md)_
 
 ## Honour Time
 - We set deadlines to push ourselves to be creative in solving problems.
-- Overtime is cheating: Working extra hours short-circuits the time constraint that we've set for ourselves keeps us from being creative.
+- Overtime is cheating: Working extra hours short-circuits the time constraint that we've set for ourselves, keeping us from being creative.
 - Learning and doing are not separate endeavors. Within the time we allocate to a problem, we must account for both the need to deliver a solution and the need to properly learn _how_ to deliver it.
 - If we never exceed a timeline, we’ll never know how fast we can actually go.
 - If we consistently exceed timelines, we’ll lose the trust of our colleagues and customers.
