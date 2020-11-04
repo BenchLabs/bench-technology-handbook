@@ -4,7 +4,7 @@
 
 Creating great technology is a Bench-wide effort. In our day-to-day work, we mostly interface with [7 teams](#groups-and-teams) who report into three departments: `Technology`, `Product`, and `Operations`. The teams are organized into two working groups: `Business Technology (BizTech)` and `Product Development`.
 
-To prevent siloing, we have a Technical Leadership group who ensure that the efforts of our teams are complimentary, and that our systems are in good health. They work closely with the Backend and Frontend guilds to create alignment around how we build our technology.
+To prevent siloing, we have a Technical Leadership group who ensure that the efforts of our teams are complementary, and that our systems are in good health. They work closely with the Backend and Frontend guilds to create alignment around how we build our technology.
 
 Finally, we have management groups who oversee the entire organization. They are charged with building and maintaining our culture, and delivering on the promises we make to our clients and the rest of Bench.
 
@@ -63,7 +63,7 @@ The Flex track is the KTLO/Support function of the Product Engineering Group (Se
 
 ### Design
 
-The Design team is asked to concretely point toward a future that doesn’t exist yet. They work closely with the Product team to deeply understand problems, and with the Product Engineers to deeply understand potential solutions, and use that understanding to define in real terms how the next thing we build will work and what it will look like. They work directly alongside engineerings in the Focus track to bring these solutions into reality.
+The Design team is asked to concretely point toward a future that doesn’t exist yet. They work closely with the Product team to deeply understand problems, and with the Product Engineers to deeply understand potential solutions, and use that understanding to define in real terms how the next thing we build will work and what it will look like. They work directly alongside engineers in the Focus track to bring these solutions into reality.
 
 ### Product
 
