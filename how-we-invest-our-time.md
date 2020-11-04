@@ -44,7 +44,7 @@ Our Product Engineering group is concerned primarily with the former interpretat
 
 Our Business Technology group is primarily concerned with the latter interpretation of innovation. The group spends the majority of its time on KTLO and Support, so it's natural that many of the innovations they come up are designed to improve their efficiency in keeping the lights on and supporting other teams. For example, they can reduce the KTLO burden with things like automated code scanning and monitors, and they can reduce the support burden by empowering stakeholders to support themselves (think Retool and Contentful).
 
-[Go here](product-engineering-and-biztech.md) to learn about Product Engineering and BizTech.
+[Go here](how-were-organized.md) to learn about Product Engineering and BizTech.
 
 ### Investing in Innovation
 
