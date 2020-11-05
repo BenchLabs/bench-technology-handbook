@@ -15,6 +15,7 @@ This is a scrappy, default open resource. We're releasing this imperfect early v
 - How we deliver
   - [How we invest our time](how-we-invest-our-time.md)
   - Build Cycles (Product Engineering)
+  - [Software Development Principles](software-development-principles.md)
 - How we measure success
   - OKRs
   - KPIs (SRE & Delivery)
