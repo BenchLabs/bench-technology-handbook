@@ -2,7 +2,8 @@
 
 This page is a reference for the Technology principles and their supporting assertions. 
 
-_[Learn how to use these principles.](culture-and-principles.md)_
+- _[Watch Blake describe this system in a video.](https://www.instagram.com/tv/CHyqMh8hTVW/)_
+- _[Read the guide on how to use these principles.](culture-and-principles.md)_
 
 ## Create Value
 
