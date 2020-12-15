@@ -1,5 +1,7 @@
 # Culture and Principles
 
+_[Watch Blake describe this system in a video.](https://www.instagram.com/tv/CHyqMh8hTVW/)_
+
 ## What is culture?
 
 What is culture? How do you point at a company and say: "this is their culture"? Can you look back at a period of time and understand how it influenced culture? If you don't like a culture, can you change it? How do you hire for "culture"?
