@@ -9,7 +9,7 @@ This page is a reference for the Technology principles and their supporting asse
 
 *Context:*
 
-Our mastery of technology gives us the opportunity to make an impact at scale. We can ship elegant code that is easily maintainable and scales with ease. We can ship interfaces that are incredibly delightful to use. None of it matters unless real people use it and it makes a difference to the quality of their lives. I'll go further: it only matters if _large amounts_ of real people use it and it makes a difference in the quality of their lives. We must keep this in mind in all of our work: it's not about us; it's about the impact we have on the world.
+Our mastery of technology gives us the opportunity to make an impact at scale. We can ship elegant code that is easily maintainable and scales with ease. We can ship interfaces that are incredibly delightful to use. None of it matters unless real people use it and it makes a difference to the quality of their lives. We must keep this in mind in all of our work: it's not about us; it's about the impact we have on the world.
 
 *Supporting Principles:*
 - We measure the value we create by how much it improves the lives of our customers.
@@ -30,7 +30,7 @@ We've got a [big mission](https://bench.co/go/culture/). To get there, we all ne
 - To foster the growth of our colleagues—regardless of their job title—we must give them deeply honest feedback, and expect them to do the same for us.
 - Feedback is most effective when those receiving it feel supported by those giving it.
 - Successes and failures are important because of what we learn from them.
-- Individuals are responsible for the impact they have on the people they work with
+- The moment you recognize your own dissatisfaction is the moment you must start doing something about it
 
 ## Honour Time
 
