@@ -30,7 +30,7 @@ We've got a [big mission](https://bench.co/go/culture/). To get there, we all ne
 - To foster the growth of our colleagues—regardless of their job title—we must give them deeply honest feedback, and expect them to do the same for us.
 - Feedback is most effective when those receiving it feel supported by those giving it.
 - Successes and failures are important because of what we learn from them.
-- The moment you recognize your own dissatisfaction is the moment you must start doing something about it
+- You are ultimately responsible for recognizing when you're dissatisfied, and for addressing that dissatisfaction by making positive change.
 
 ## Honour Time
 
