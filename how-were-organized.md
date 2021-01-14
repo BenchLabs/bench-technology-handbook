@@ -2,11 +2,13 @@
 
 [![Overview of how the Technology Teams are organized](images/groups-and-functions.png)](images/groups-and-functions.png)
 
-Creating great technology is a Bench-wide effort. In our day-to-day work, we mostly interface with [7 teams](#groups-and-teams) who report into three departments: `Technology`, `Product`, and `Operations`. The teams are organized into two working groups: `Business Technology (BizTech)` and `Product Development`.
+Creating great technology is a Bench-wide effort. In our day-to-day work, we mostly interface with [8 teams](#groups-and-teams) who report into three departments: `Technology`, `Product`, and `Operations`. The teams are organized into two working groups: `Business Technology (BizTech)` and `Product Development`.
 
-To prevent siloing, we have a Technical Leadership group who ensure that the efforts of our teams are complementary, and that our systems are in good health. They work closely with the Backend and Frontend guilds to create alignment around how we build our technology.
+To prevent siloing, we have a **Technical Leadership** group who ensure that the efforts of our teams are complementary, and that our systems are in good health. They work closely with the **Backend Guild** and **Frontend Guild** to create alignment around how we build our technology.
 
-Finally, we have management groups who oversee the entire organization. They are charged with building and maintaining our culture, and delivering on the promises we make to our clients and the rest of Bench.
+Finally, we have **management groups** who oversee the entire organization. They are charged with building and maintaining our culture, and delivering on the promises we make to our clients and the rest of Bench.
+
+This document focuses on what each group does. To understand how we think about investment across all teams, see [How we invest our time](how-we-invest-our-time.md).
 
 ## Groups and Teams
 - [BizTech](#biztech)
@@ -23,11 +25,15 @@ Finally, we have management groups who oversee the entire organization. They are
 
 ## BizTech
 
-The Business Technology group exists to support the implementation, creation, and use of technology across Bench. The group's primary function is KTLO and Support; indeed many of the BizTech teams use JIRA support desk to manage the support requests that they receive. It is made up of the **Platform**, **Data**, **IT**, and **Bench App Support** teams.
+The Business Technology group exists to support the implementation, creation, and use of technology across Bench. The group's primary function is KTLO and Support; indeed many of the BizTech teams use JIRA support desk to manage the support requests that they receive. It is made up of the **Platform**, **Core**, **Data**, **IT**, and **Bench App Support** teams.
 
 ### Platform
 
 The Platform team owns our cloud infrastructure, our build pipeline, and our development environment. They play a big role in enabling Product Engineering, IT, and Data with infrastructural support and guidance. 
+
+#### Core
+
+The Core team maintains and improves our in-house software and its infrastructure. Their team's primary concern is Keeping the Lights On (KTLO) at the application level, their secondary concern is supporting stakeholder requests that are "too small for a pitch", and their third concern is enabling the speed and quality of our engineering, primarily through through the reduction of technical debt. The Core team works closely with BAS (Bench App Support) and BizTech to handle the issues, outages, and stakeholder requests that come our way during a cycle and its cooldown. In effect, the Core team makes the Product Engineering cycles _possible_ by absorbing the myriad distractions the team needs to deal with during a cycle. The number of engineers on the Core team scales based on total number of clients, a proxy for business complexity.
 
 ### Data
 
@@ -49,17 +55,11 @@ The Product Development group is charged with building technology that creates g
 
 ### Product Engineering
 
-The Product Engineering team owns and develops our client applications and the internal tools for our operations teams. This team is the largest component in Bench's investment in product innovation. Functionally, the group has two tracks: **Focus** and **Flex**.
-
-#### Focus
-
-The Focus track works in build cycles based on the model described in [Shape Up](https://basecamp.com/shapeup/webbook). This system optimizes for two things. First, it ensures that that what we're working on _right now_ aligns with Bench's strategy. Second, it ensures the creation of value on a regular cadence—projects aren't allowed to take longer than the build cycle. How it works:
+The Product Engineering group works in build cycles based on the model described in [Shape Up](https://basecamp.com/shapeup/webbook). This system optimizes for two things. First, it ensures that that what we're working on _right now_ aligns with Bench's strategy. Second, it ensures the creation of value on a regular cadence—projects aren't allowed to take longer than the build cycle. How it works:  
 
 Every 8ish weeks the Product team (in collaboration with Engineering and Design) submits pitches for projects for the coming cycle, and senior leaders bet on the ones that they believe will have the biggest impact for our clients. The engineers (in collaboration with Product and Design) then spend 6 focused weeks on the projects that were chosen, and deliver the maximum value that we can within this timeframe. This is followed by 2 weeks of cooldown to handle the various maintenance, refactors, and improvements that have been tabled for the previous six weeks. If a project isn't finished, it can be re-bet upon in the coming cycle.
 
-#### Flex
-
-The Flex track is the KTLO/Support function of the Product Engineering Group (See [How we invest our time](how-we-invest-our-time.md)). The Flex track works closely with BAS (Bench App Support) and BizTech to handle the issues, outages, and stakeholder requests that come our way during a cycle and its cooldown. In effect, the Flex track makes the Focus track _possible_ by absorbing the myriad distractions the team needs to deal with during a cycle. The number of engineers on the Flex track scales based on total number of clients, a proxy for business complexity.
+For a deeper dive on this process, check out [this post on our blog](https://medium.com/lifeatbench/how-we-build-product-at-bench-a095d7f62872).
 
 ### Design
 
