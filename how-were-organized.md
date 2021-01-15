@@ -13,13 +13,12 @@ This document focuses on what each group does. To understand how we think about 
 ## Groups and Teams
 - [BizTech](#biztech)
   - [BAS](#bas)
+  - [Core](#core)
   - [IT](#it)
   - [Data](#data)
   - [Platform](#platform)
 - [Product Development](#product-development)
   - [Product Engineering](#product-engineering)
-    - [Flex](#flex)
-    - [Focus](#focus)
   - [Design](#design)
   - [Product](#product)
 
