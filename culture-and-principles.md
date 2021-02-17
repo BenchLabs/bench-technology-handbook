@@ -6,7 +6,7 @@ _[Watch Blake describe this system in a video.](https://www.instagram.com/tv/CHy
 
 What is culture? How do you point at a company and say: "this is their culture"? Can you look back at a period of time and understand how it influenced culture? If you don't like a culture, can you change it? How do you hire for "culture"?
 
-Culture can feel ambiguous, intangible, and inaccesible. Fortunately, it isn't.
+Culture can feel ambiguous, intangible, and inaccessible. Fortunately, it isn't.
 
 You can read, listen to, type, speak, and think the culture of an organization. It's right there, in the conversations that are taking place every single day. Every Slack message, every watercooler session, every Jira comment, every 1:1, every all-hands, every line of code; they are all conversations that we're having or have had. Culture is simply the sum of all of these conversations.
 
@@ -36,11 +36,11 @@ All the conversations we've had + the inappropriate thing that was said + a conv
 
 It's that simple: one conversation changes the culture, and another may correct its course.
 
-So, as culture creators, it is up to us to observe the conversations that we're part of. We must then ask ourselves: "are these conversations consistent with the culture I'm committed to creating?" If they aren't, it's up to us to make sure the our suubsequent conversations put us back on track.
+So, as culture creators, it is up to us to observe the conversations that we're part of. We must then assess: "are these conversations consistent with the culture I'm committed to creating?" If they aren't, it's up to us to make sure the our suubsequent conversations put us back on track.
 
 ## Culture at scale with principles
 
-At the time this is written, Bench has over 500 employees distributed across North America. At this scale—in order to be able to ask "are these conversations consistent with the culture I'm committed to creating?"—we must explicitly define our culture. This is why we have cultural principles.
+At the time this is written, Bench has over 500 employees distributed across North America. At this scale—in order to be able to assess "are these conversations consistent with the culture I'm committed to creating?"—we must explicitly define our culture. This is why we have cultural principles.
 
 First, let's look at the Bench Principles:
 
