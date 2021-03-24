@@ -33,7 +33,7 @@ The Platform team owns our cloud infrastructure, our build pipeline, and our dev
 
 #### Core
 
-The Core group maintains and improves our in-house software and its infrastructure. They are in two teams: Core Support, and Core Systems.
+The Core group maintains and improves our in-house software and its infrastructure. They are organized in two teams: Core Support and Core Systems.
 
 ##### Core Support
 
