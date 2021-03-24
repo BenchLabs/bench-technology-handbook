@@ -4,7 +4,7 @@ As managers, we do everything in our power to create a work environment that fol
 
 1. Don't keep it a secret! 
 
-Have a real conversation with your manager about where you're at. Maybe there's a conversation we can have that changes your your mind. If not, maybe we can support you in seeking your next role. Regardless, it's hugely beneficial for us to see Bench through your eyes so we can continue to improve.
+Have a real conversation with your manager about where you're at. Maybe there's a conversation we can have that changes your your mind. If not, maybe we can support you in seeking your next role. Regardless, it's hugely beneficial for us to see Bench through your eyes so we can continue to improve. At this point, your manager can also support you in submitting your official resignation.
 
 2. Respect your teammates and their commitments. 
 
