@@ -15,11 +15,8 @@ This is a scrappy, default open resource. We're releasing this imperfect early v
 - How we deliver
   - [How we invest our time](how-we-invest-our-time.md)
   - [How we build product (blog post)](https://medium.com/lifeatbench/how-we-build-product-at-bench-a095d7f62872)
-- How we measure success
-  - OKRs
-  - KPIs (SRE & Delivery)
 - Compensation
   - [How we set salaries](how-we-set-salaries.md)
   - [Competencies by role (public)](https://docs.google.com/spreadsheets/d/1rV2q8TJaY8gHhuAhXaHBLJdld3XLdJG-UbL706SkCAY/edit#gid=221997572)
-- How to quit
+- [How to quit](how-to-quit.md)
 
