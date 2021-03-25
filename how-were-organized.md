@@ -12,8 +12,9 @@ This document focuses on what each group does. To understand how we think about 
 
 ## Groups and Teams
 - [BizTech](#biztech)
-  - [BAS](#bas)
   - [Core](#core)
+    - [Core Support](#core-support)
+    - [Core Systems](#core-systems)
   - [IT](#it)
   - [Data](#data)
   - [Platform](#platform)
@@ -32,7 +33,15 @@ The Platform team owns our cloud infrastructure, our build pipeline, and our dev
 
 #### Core
 
-The Core team maintains and improves our in-house software and its infrastructure. The team's primary concern is Keeping the Lights On (KTLO) at the application level, their secondary concern is supporting stakeholder requests that are "too small for a pitch", and their tertiary concern is innovating our technology and processes to enhance the speed and quality of our engineering, with a strong focus on the reduction of technical debt. The Core team works closely with BAS (Bench App Support) and the rest of BizTech to handle the issues, outages, and stakeholder requests that come our way during a cycle and its cooldown. In effect, the Core team makes the Product Engineering cycles _possible_ by absorbing the myriad distractions the team needs to deal with during a cycle. The number of engineers on the Core team scales based on total number of clients, a proxy for business complexity.
+The Core group maintains and improves our in-house software and its infrastructure. They are organized in two teams: Core Support and Core Systems.
+
+##### Core Support
+
+The Core Support team's primary concern is Keeping the Lights On (KTLO) at the application level, their secondary concern is supporting stakeholder requests that are "too small for a pitch", and their tertiary concern is innovating to make both KTLO and supporting stakeholders more efficient. Core Support works closely the rest of BizTech to handle the issues, outages, and stakeholder requests that arise during our build cycles. In effect, the Core Support team makes the Product Engineering cycles _possible_ by absorbing the myriad distractions that would otherwise derail their focus. The number of engineers on the Core Support team scales based on total number of clients, a proxy for business complexity.
+
+##### Core Systems
+
+The Core System team is focused on improving our technology and processes to enhance the speed and quality of our engineering, with a strong focus on the reduction of technical debt. Unlike Core Support, they work with few distractions in order to increase the speed with which they can make improvements.
 
 ### Data
 
@@ -41,10 +50,6 @@ The Data team owns our data pipelines and warehouse. They create the data infras
 ### IT
 
 The IT team owns our physical infrastructure (wifi, on-prem VPN, laptops, etc) as well as the access to our software (think Okta, Salesforce, etc). They are responsible for onboarding, offboarding, and a significant amount of our security controls.
-
-### BAS
-
-Bench Application Support (BAS) handles all internal and external bug reports, questions, and stakeholder requests. They're also experts in our applications, and regularly provide help and training to unblock other Benchmates. Increasingly they're taking on other functions, like QA and security compliance.
 
 _NOTE: BAS actually reports into Operations, but they're a key contributor to BizTech's success_
 
