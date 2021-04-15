@@ -12,9 +12,8 @@ This document focuses on what each group does. To understand how we think about 
 
 ## Groups and Teams
 - [BizTech](#biztech)
-  - [Core](#core)
-    - [Core Support](#core-support)
-    - [Core Systems](#core-systems)
+  - [Support Engineering](#support-engineering)
+  - [Systems Engineering](#systems-engineering)
   - [IT](#it)
   - [Data](#data)
   - [Platform](#platform)
@@ -25,23 +24,19 @@ This document focuses on what each group does. To understand how we think about 
 
 ## BizTech
 
-The Business Technology group exists to support the implementation, creation, and use of technology across Bench. The group's primary function is KTLO and Support; indeed many of the BizTech teams use JIRA support desk to manage the support requests that they receive. It is made up of the **Platform**, **Core**, **Data**, **IT**, and **Bench App Support** teams.
+The Business Technology group exists to support the implementation, creation, and use of technology across Bench. The group's primary function is KTLO and Support; indeed many of the BizTech teams use JIRA support desk to manage the support requests that they receive. It is made up of the **Platform**, **Support Engineering**, **Systems Engineering** **Data**, **IT**, and **Bench App Support** teams.
 
 ### Platform
 
 The Platform team owns our cloud infrastructure, our build pipeline, and our development environment. They play a big role in enabling Product Engineering, IT, and Data with infrastructural support and guidance. 
 
-#### Core
+### Support Engineering
 
-The Core group maintains and improves our in-house software and its infrastructure. They are organized in two teams: Core Support and Core Systems.
+The Support Engineering team's primary concern is Keeping the Lights On (KTLO) at the application level, their secondary concern is supporting stakeholder requests that are "too small for a pitch", and their tertiary concern is innovating to make both KTLO and supporting stakeholders more efficient. Support Engineering works closely the rest of BizTech to handle the issues, outages, and stakeholder requests that arise during our build cycles. In effect, the Support Engineering team makes the Product Engineering cycles _possible_ by absorbing the myriad distractions that would otherwise derail their focus. The number of engineers on the Support team Engineering scales based on total number of clients, a proxy for business complexity.
 
-##### Core Support
+### Systems Engineering
 
-The Core Support team's primary concern is Keeping the Lights On (KTLO) at the application level, their secondary concern is supporting stakeholder requests that are "too small for a pitch", and their tertiary concern is innovating to make both KTLO and supporting stakeholders more efficient. Core Support works closely the rest of BizTech to handle the issues, outages, and stakeholder requests that arise during our build cycles. In effect, the Core Support team makes the Product Engineering cycles _possible_ by absorbing the myriad distractions that would otherwise derail their focus. The number of engineers on the Core Support team scales based on total number of clients, a proxy for business complexity.
-
-##### Core Systems
-
-The Core System team is focused on improving our technology and processes to enhance the speed and quality of our engineering, with a strong focus on the reduction of technical debt. Unlike Core Support, they work with few distractions in order to increase the speed with which they can make improvements.
+The Systems Engineering team is focused on improving our technology and processes to enhance the speed and quality of our engineering, with a strong focus on the reduction of technical debt. Unlike Support Engineering, they work with few distractions in order to increase the speed with which they can make improvements.
 
 ### Data
 
