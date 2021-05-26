@@ -50,3 +50,10 @@ it_!
 
 To put this principle into practice in a shape-up world, remember that although timelines are not variable, scope is. If something cannot be shipped of
 acceptable quality by the end of a cycle, the scope must change.
+
+
+___
+
+## See it through
+
+TODO: something here about sheparding your code all the way through deployment and into production - verify!
