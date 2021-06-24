@@ -54,7 +54,7 @@ The Product Development group is charged with building technology that creates g
 
 ### Product Engineering
 
-The Product Engineering group works in build cycles based on the model described in [Shape Up](https://basecamp.com/shapeup/webbook). This system optimizes for two things. First, it ensures that that what we're working on _right now_ aligns with Bench's strategy. Second, it ensures the creation of value on a regular cadence—projects aren't allowed to take longer than the build cycle. How it works:  
+The Product Engineering group works in build cycles based on the model described in [Shape Up](https://basecamp.com/shapeup/webbook). This system optimizes for two things. First, it ensures that what we're working on _right now_ aligns with Bench's strategy. Second, it ensures the creation of value on a regular cadence—projects aren't allowed to take longer than the build cycle. How it works:  
 
 Every 8ish weeks the Product team (in collaboration with Engineering and Design) submits pitches for projects for the coming cycle, and senior leaders bet on the ones that they believe will have the biggest impact for our clients. The engineers (in collaboration with Product and Design) then spend 6 focused weeks on the projects that were chosen, and deliver the maximum value that we can within this timeframe. This is followed by 2 weeks of cooldown to handle the various maintenance, refactors, and improvements that have been tabled for the previous six weeks. If a project isn't finished, it can be re-bet upon in the coming cycle.
 
