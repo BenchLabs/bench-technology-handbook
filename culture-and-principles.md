@@ -36,7 +36,7 @@ All the conversations we've had + the inappropriate thing that was said + a conv
 
 It's that simple: one conversation changes the culture, and another may correct its course.
 
-So, as culture creators, it is up to us to observe the conversations that we're part of. We must then assess: "are these conversations consistent with the culture I'm committed to creating?" If they aren't, it's up to us to make sure the our suubsequent conversations put us back on track.
+So, as culture creators, it is up to us to observe the conversations that we're part of. We must then assess: "are these conversations consistent with the culture I'm committed to creating?" If they aren't, it's up to us to make sure the our subsequent conversations put us back on track.
 
 ## Culture at scale with principles
 
