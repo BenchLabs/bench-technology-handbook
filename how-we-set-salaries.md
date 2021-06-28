@@ -8,7 +8,7 @@ At Bench, there are two key components of salary: market value and competency. *
 
 ### How we determine market value
 
-The first step in determining market value is cleary defining the roles in your organization. At Bench we chose to use numbered levels for our engineers—we go from Engineer 1 to Engineer 5. For each level, we defined a very clear set of competencies (see [Competencies by Role](https://docs.google.com/spreadsheets/d/1rV2q8TJaY8gHhuAhXaHBLJdld3XLdJG-UbL706SkCAY/edit#gid=221997572)).
+The first step in determining market value is clearly defining the roles in your organization. At Bench, we chose to use numbered levels for our engineers—we go from Engineer 1 to Engineer 5. For each level, we defined a very clear set of competencies (see [Competencies by Role](https://docs.google.com/spreadsheets/d/1rV2q8TJaY8gHhuAhXaHBLJdld3XLdJG-UbL706SkCAY/edit#gid=221997572)).
 
 Once our roles were clearly defined, we compared them to the two salary databases that we purchase on an annual basis (Radford and HR Tech). Salary databases collect data from thousands of companies each year. For each job title, they provide the median and mean salaries at the 50th, 75th, and 90th percentile. The basic idea is that you find matches in their database for the roles in your organization, and then use their data to set a competitive salary midpoint—in our case, the 75th percentile.
 
