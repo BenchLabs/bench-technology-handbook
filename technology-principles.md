@@ -26,7 +26,8 @@ We've got a [big mission](https://bench.co/go/culture/). To get there, we all ne
 
 *Supporting Principles:*
 - Growth happens when an individual continuously asks themselves: is this the best I can do?
-- To grow, we must step into conversations that feel scary and uncomfortable.  
+- To grow, we must step into conversations that feel scary and uncomfortable.
+- We grow fastest when we solicit feedback from multiple sources.
 - To foster the growth of our colleagues—regardless of their job title—we must give them deeply honest feedback, and expect them to do the same for us.
 - Feedback is most effective when those receiving it feel supported by those giving it.
 - Successes and failures are important because of what we learn from them.
