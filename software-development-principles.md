@@ -39,14 +39,19 @@ with the actual changes. If it starts to spin away, it's time for a separate tic
 There is always a tension between shipping code of perfect quality and shipping code as fast as possible (by quality we are referring to the code itself and to
 the software product). One can choose either option to the expense of the other but, as with anything done to an extreme, it leads to bad outcomes.
 
-Focusing only on quality will cause software to ship unacceptably slowly, and ends up not being worth the time invested. Conversely focusing purely on shipping as fast
-as possible leads to poor code, bugs, and bad user experience. It also ends up significantly slowing down the development process down the road as the team
-struggles to keep up with bugs as well as the increased burden of working with difficult code. Simply put, it produces too much tech debt.
+Focusing only on quality will cause software to ship unacceptably slowly, and ends up not being worth the time invested. Conversely, focusing purely on shipping
+as fast as possible leads to poor code, bugs, and bad user experience. It also ends up significantly slowing down the development process down the road as the
+team struggles to keep up with bugs as well as the increased burden of working with difficult code. Simply put, it produces too much tech debt.
 
 So where is the balance? Because too much speed has such a detrimental effect on the development of good software, we should favour quality. Code of consistent
 code quality will allow us to maintain a more predictable and constant velocity, as we focus adding features or improving the system instead of chasing tech
-debt. But, we always want to keep in mind that our job is to constantly produce value via software, so once our code is of acceptable quality, its time to _ship
-it_!  
+debt. But, we always want to keep in mind that our job is to constantly produce value via software, so once our code is of acceptable quality, it's time to _ship
+it_!
 
-To put this principle into practice in a shape-up world, remember that although timelines are not variable, scope is. If something cannot be shipped of
-acceptable quality by the end of a cycle, the scope must change.
+Also note that the word acceptable here is context-sensitive, and varies between production and prototype/hackathon code. We can be looser with code that is
+intended to be short-lived as there is no future maintenance concern. However, it is still important to keep quality in mind as we want to ensure success,
+promote good practices, and provide a solid learning experience.
+
+To put this principle into practice in Bench's product build cycles, remember that although timelines are not variable, scope is. If something cannot be shipped
+of  acceptable quality by the end of a cycle, the scope must change.
+
