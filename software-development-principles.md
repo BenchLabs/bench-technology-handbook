@@ -6,9 +6,9 @@ What is good software? Good software:
 - reliably performs the functions it was designed to do - this is #1, nothing else matters if this is untrue
 - is easily usable by the end users
 - is resilient, it can withstand errors and unexpected circumstances
-- is understandable and maintainable by software developers, even those that didn’t write it
+- is understandable and maintainable by software developers, especially those that didn't write it
 - is testable, meaning any bit of code can be automatically tested and said to be “correct”
-- is observable and measurable, that is, it is possible to see what it is doing, and how well, at any point in time
+- is observable, measurable, and traceable - that is, it is possible to see what it is doing, and how well, at any point in time
 
 The ideal of the principles laid out here is that following them results in us achieving the points above.
 
