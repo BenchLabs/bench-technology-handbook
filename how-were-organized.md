@@ -12,9 +12,8 @@ This document focuses on what each group does. To understand how we think about 
 
 ## Groups and Teams
 - [BizTech](#biztech)
-  - [Core](#core)
-    - [Core Support](#core-support)
-    - [Core Systems](#core-systems)
+  - [Support Engineering](#support-engineering)
+  - [Systems Engineering](#systems-engineering)
   - [IT](#it)
   - [Data](#data)
   - [Platform](#platform)
@@ -25,23 +24,19 @@ This document focuses on what each group does. To understand how we think about 
 
 ## BizTech
 
-The Business Technology group exists to support the implementation, creation, and use of technology across Bench. The group's primary function is KTLO and Support; indeed many of the BizTech teams use JIRA support desk to manage the support requests that they receive. It is made up of the **Platform**, **Core**, **Data**, **IT**, and **Bench App Support** teams.
+The Business Technology group exists to support the implementation, creation, and use of technology across Bench. The group's primary function is KTLO and Support; indeed many of the BizTech teams use JIRA support desk to manage the support requests that they receive. It is made up of the **Platform**, **Support Engineering**, **Systems Engineering** **Data**, **IT**, and **Bench App Support** teams.
 
 ### Platform
 
 The Platform team owns our cloud infrastructure, our build pipeline, and our development environment. They play a big role in enabling Product Engineering, IT, and Data with infrastructural support and guidance. 
 
-#### Core
+### Support Engineering
 
-The Core group maintains and improves our in-house software and its infrastructure. They are organized in two teams: Core Support and Core Systems.
+The Support Engineering team's primary concern is Keeping the Lights On (KTLO) at the application level, their secondary concern is supporting stakeholder requests that are "too small for a pitch", and their tertiary concern is innovating to make both KTLO and supporting stakeholders more efficient. Support Engineering works closely the rest of BizTech to handle the issues, outages, and stakeholder requests that arise during our build cycles. In effect, the Support Engineering team makes the Product Engineering cycles _possible_ by absorbing the myriad distractions that would otherwise derail their focus. The number of engineers on the Support team Engineering scales based on total number of clients, a proxy for business complexity.
 
-##### Core Support
+### Systems Engineering
 
-The Core Support team's primary concern is Keeping the Lights On (KTLO) at the application level, their secondary concern is supporting stakeholder requests that are "too small for a pitch", and their tertiary concern is innovating to make both KTLO and supporting stakeholders more efficient. Core Support works closely the rest of BizTech to handle the issues, outages, and stakeholder requests that arise during our build cycles. In effect, the Core Support team makes the Product Engineering cycles _possible_ by absorbing the myriad distractions that would otherwise derail their focus. The number of engineers on the Core Support team scales based on total number of clients, a proxy for business complexity.
-
-##### Core Systems
-
-The Core System team is focused on improving our technology and processes to enhance the speed and quality of our engineering, with a strong focus on the reduction of technical debt. Unlike Core Support, they work with few distractions in order to increase the speed with which they can make improvements.
+The Systems Engineering team is focused on improving our technology and processes to enhance the speed and quality of our engineering, with a strong focus on the reduction of technical debt. Unlike Support Engineering, they work with few distractions in order to increase the speed with which they can make improvements.
 
 ### Data
 
@@ -59,7 +54,7 @@ The Product Development group is charged with building technology that creates g
 
 ### Product Engineering
 
-The Product Engineering group works in build cycles based on the model described in [Shape Up](https://basecamp.com/shapeup/webbook). This system optimizes for two things. First, it ensures that that what we're working on _right now_ aligns with Bench's strategy. Second, it ensures the creation of value on a regular cadence—projects aren't allowed to take longer than the build cycle. How it works:  
+The Product Engineering group works in build cycles based on the model described in [Shape Up](https://basecamp.com/shapeup/webbook). This system optimizes for two things. First, it ensures that what we're working on _right now_ aligns with Bench's strategy. Second, it ensures the creation of value on a regular cadence—projects aren't allowed to take longer than the build cycle. How it works:  
 
 Every 8ish weeks the Product team (in collaboration with Engineering and Design) submits pitches for projects for the coming cycle, and senior leaders bet on the ones that they believe will have the biggest impact for our clients. The engineers (in collaboration with Product and Design) then spend 6 focused weeks on the projects that were chosen, and deliver the maximum value that we can within this timeframe. This is followed by 2 weeks of cooldown to handle the various maintenance, refactors, and improvements that have been tabled for the previous six weeks. If a project isn't finished, it can be re-bet upon in the coming cycle.
 
