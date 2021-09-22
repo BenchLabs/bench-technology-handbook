@@ -6,7 +6,7 @@ Making Commitments is not a natural phenomenon. It requires practice, and it's o
 
 ## Commitment flowchart
 
-We've built a [flowchart](https://miro.com/app/board/o9J_lwSXARg=/) to illustrate how commitments happen at Bench works. We recommend familiarizing yourselves with this it, and then using this page as a reference for the terms themselves.
+We've built a [flowchart](https://miro.com/app/board/o9J_lwSXARg=/) to illustrate how commitments are made at Bench. We recommend familiarizing yourselves with it, and then using this page as a reference for the terms themselves.
 
 ## Terms
 
