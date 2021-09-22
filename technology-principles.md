@@ -42,8 +42,8 @@ Time is the most precious resource we have. This applies at the organizational l
 *Supporting Principles:*
 - We limit the time we spend on a problem to push ourselves to be creative in solving it.
 - Time spent _doing_ must be balanced by time spent _learning_.
-- If commitments don't have a "by when" date, they won't happen.
 - The most effective commitments are those made by the individuals doing the work.
-- If we never miss the dates we commit to, we’ll never know how fast we can go.
+- If commitments don't have a "by when" date, they won't happen.
+- If we never miss a date we've committed to, we’ll never know how fast we can go.
 - If we consistently miss the dates we commit to, no one will trust us.
 - Overtime is cheating—working extra hours is just a sneaky way of missing a date we've committed to.
