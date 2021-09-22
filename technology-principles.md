@@ -40,10 +40,10 @@ We've got a [big mission](https://bench.co/go/culture/). To get there, we all ne
 Time is the most precious resource we have. This applies at the organizational level and the individual level. By being intentional with the time we assign to our activities, we create an environment where creativity and ingenuity are the drivers of our success, not the time we spend working. This is how we get to be ferociously effective as an organization while also living rich, sustainable lifestyles as individuals.
 
 *Supporting Principles:*
-- We set deadlines to push ourselves to be creative in solving problems.
-- Overtime is cheating: Working extra hours short-circuits the time constraint that we've set for ourselves, keeping us from being creative.
-- Learning and doing are not separate endeavors. Within the time we allocate to a problem, we must account for both the need to deliver a solution and the need to properly learn _how_ to deliver it.
-- If we never exceed a timeline, we’ll never know how fast we can actually go.
-- If we consistently exceed timelines, we’ll lose the trust of our colleagues and customers.
-- Time spent _not working at all_ makes us more effective during the time we spend working.
-- A timeline is most motivating when each person doing the work has personally committed to it.
+- We limit the time we spend on a problem to push ourselves to be creative in solving it.
+- Time spent _doing_ must be balanced by time spent _learning_.
+- If commitments don't have a "by when" date, they won't happen.
+- The most effective commitments are those made by the individuals doing the work.
+- If we never miss the dates we commit to, we’ll never know how fast we can go.
+- If we consistently miss the dates we commit to, no one will trust us.
+- Overtime is cheating—working extra hours is just a sneaky way of missing a date we've committed to.
