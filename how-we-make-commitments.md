@@ -10,13 +10,13 @@ We've built a [flowchart](https://miro.com/app/board/o9J_lwSXARg=/) to illustrat
 
 ## Terms
 
-**_Commitment_**: Commitments are our best tool for talking about the future we're creating in concrete terms. They have two key components: "the thing I will do" and "by when". Each commitment is an individual choice—no one can "commit you to something" (well, other than to an asylum). It is something that _only you can do_. It is through individuals making powerful commitments about how they will shape the future that we build an incredible company. *Important:* Commitments are made based on our current understanding of the world. We receive new information every day, and often this information changes how we think about this future. **When this happens, we must update our commitments so they once again represent the future as we see it.** This is not failure, this is the system working as intended.
+**_Commitment_**: Commitments are our best tool for talking about the future in concrete terms. They have two key components: "the thing I will do" and "by when". Each commitment is an individual choice—no one can "commit you to something" (well, other than to an asylum). It is something that _only you can do_, and when you do it, you have the power to create whatever future you want. This is a hugely important concept, and we believe it is key to building an incredible company. *Important:* Commitments are made based on our current understanding of the world. We receive new information every day, and often this information changes how we think about this future. **When this happens, we must update our commitments so they once again represent the future as we see it.** This is not failure, this is the system working as intended.
 
-**_Dissatisfaction_**: A general belief that things can be better than they are. In the real world, "dissatisfaction" often has negative connotations—but not at Bench. Dissatisfaction is the requisite first step for any change, big or small. Glory in it!
+**_Dissatisfaction_**: A general belief that things can be better than they are in a certain domain. In the real world, "dissatisfaction" often has negative connotations—but not at Bench. Dissatisfaction is the requisite first step for any change, big or small. Glory in it!
 
 **_Concern_**: Very closely related to dissatisfaction, but often related to the perceived downsides of what you are dissatisfied with. Often looks like "I am concerned that because of situation X, thing Y will happen." As an individual, you can analyze your concerns to find your dissatisfaction. As a leader or collaborator, you can listen to concerns and dig in to find the underlying dissatisfaction.
 
-**_Satisfaction_**: The opposite of dissatisfaction. You're happy with how things are. (Just don't be satisfied to _too_ long.)
+**_Satisfaction_**: The opposite of dissatisfaction. You're happy with how things are in a certain domain. (Just don't be satisfied _too_ long.)
 
 **_Conditions of Satisfaction_**: What needs to be true for you to be satisfied?
 
