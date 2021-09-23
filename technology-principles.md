@@ -46,4 +46,5 @@ Time is the most precious resource we have. This applies at the organizational l
 - If commitments don't have a "by when" date, they won't happen.
 - If we never miss a date we've committed to, we’ll never know how fast we can go.
 - If we consistently miss the dates we commit to, no one will trust us.
+- As soon as you learn something that makes your current commitment invalid, make a new commitment.
 - Overtime is cheating—working extra hours is just a sneaky way of missing a date we've committed to.
