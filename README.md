@@ -14,6 +14,7 @@ This is a scrappy, default open resource. We're releasing this imperfect early v
 - [How we're organized](how-were-organized.md)
 - How we deliver
   - [How we invest our time](how-we-invest-our-time.md)
+  - [How we make commitments](how-we-make-commitments.md)
   - [How we build product (blog post)](https://medium.com/lifeatbench/how-we-build-product-at-bench-a095d7f62872)
 - Compensation
   - [How we set salaries](how-we-set-salaries.md)
