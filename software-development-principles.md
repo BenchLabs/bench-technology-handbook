@@ -31,6 +31,16 @@ or a small logical component of a larger feature.
 Note: This is _not_ to preclude the possibility of improving the quality of the code around your change as you go, but even those must be in a close relationship
 with the actual changes. If it starts to spin away, it's time for a separate ticket and PR.
 
+---
+
+## Be a code shepherd
+
+You've completed your code changes, passed all the tests, gotten your pull request approved, merged your code, and hit deploy - mission accomplished, right? 
+Not so fast - what's your code doing now, out in the real world? Is it working as intended? Is it causing any errors? Can you see activity in the logs?
+In short - are you aware if your changes were successful and not causing any problems?
+
+
+
 
 ---
 
