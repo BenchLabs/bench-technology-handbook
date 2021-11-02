@@ -13,6 +13,7 @@ Our mastery of technology gives us the opportunity to make an impact at scale. W
 
 *Supporting Principles:*
 - We measure the value we create by how much it improves the lives of our customers.
+- At any moment, we must be able to connect the work were doing to our mission 
 - The speed at which we learn is the most important factor in our ability to create value.
 - We are most likely to do high-value work when we see it as necessary to advance a cause that we believe in.
 - We ensure that our work is of high value by nurturing, developing and sharing so many ideas that we can’t possibly do them all, and then choosing only those that will make the largest impact.
@@ -40,6 +41,7 @@ We've got a [big mission](https://bench.co/go/culture/). To get there, we all ne
 Time is the most precious resource we have. This applies at the organizational level and the individual level. By being intentional with the time we assign to our activities, we create an environment where creativity and ingenuity are the drivers of our success, not the time we spend working. This is how we get to be ferociously effective as an organization while also living rich, sustainable lifestyles as individuals.
 
 *Supporting Principles:*
+- Technology is at its best when it creates time for its users
 - We limit the time we spend on a problem to push ourselves to be creative in solving it.
 - Time spent _doing_ must be balanced by time spent _learning_.
 - The most effective commitments are those made by the individuals doing the work.
