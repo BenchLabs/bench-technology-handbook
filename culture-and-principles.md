@@ -76,6 +76,29 @@ As mentioned above, the Bench principles give instructions for _how we do it_, a
 
 So, when we have conversations about _Creating Value_, _Fostering Growth_, and _Honouring Time_, we must ensure that they live within the boundaries set by _Keep it Human_, _Be Responsible_, _Get Scrappy_, _Take a Stand_, and _Default Open_. If this all seems a bit complicated, don't worry: there's a system.
 
+## How we created the Technology Principles
+
+### Step 1
+
+We wrote down what dissatisfied us about our existing culture, and grouped these statements of dissatisfaction into themes.
+
+### Step 2
+
+For each theme, we described aspects of a culture that we would prefer to what we're currently seeing. We took these ideas, grouped like concepts together, and wrote them in list format. This list was our first draft of the culture we wanted to create.
+
+### Step 3
+
+We converted each list item into an axiom. Where possible, we wrote axioms that covered multiple list items.
+
+> Axiom: a statement or proposition which is regarded as being established, accepted, or self-evidently true.
+
+The discipline of creating axioms forced us to be very specific in defining the building blocks of the culture we wanted to create. The number of axioms in each theme is small, but when read as a group they evoke a beautiful, complex vision for what our culture can be.
+
+### Step 5
+
+For each theme, define an instruction that logically follows its axioms. These instructions are our principles: Create Value, Foster Growth, and Honour Time.
+
+
 ## A test suite for our culture
 
 Each of the Technology Principles has a set of supporting principles. _Create Value_, _Foster Growth_, and _Honour Time_ are instructions, and their supporting principles are assertions. These assertions answer the question: "what needs to be true for a conversation to be consistent with this principle?" In practice, we've found that each assertion maps nicely to a Bench principle (though this isn't a hard requirement). This has a really interesting side effect: each assertion effectively becomes a unit test for a conversation.
