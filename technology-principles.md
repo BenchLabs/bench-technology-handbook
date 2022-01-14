@@ -11,7 +11,7 @@ This page is a reference for the Technology principles and their supporting asse
 
 Our mastery of technology gives us the opportunity to make an impact at scale. We can ship elegant code that is easily maintainable and scales with ease. We can ship interfaces that are incredibly delightful to use. None of it matters unless real people use it and it makes a difference to the quality of their lives. We must keep this in mind in all of our work: it's not about us; it's about the impact we have on the world.
 
-*Supporting Principles:*
+*Axioms:*
 - We measure the value we create by how much it improves the lives of our customers.
 - The speed at which we learn is the most important factor in our ability to create value.
 - We are most likely to do high-value work when we see it as necessary to advance a cause that we believe in.
@@ -24,7 +24,7 @@ Our mastery of technology gives us the opportunity to make an impact at scale. W
 
 We've got a [big mission](https://bench.co/go/culture/). To get there, we all need to be _so much better_ than we currently are. Fostering growth starts as an individual activity—no one can grow for you. We upgrade that individual activity by making growth the number one priority of our management team. This is both a carrot and a stick; if you're taking yourself on, we will do everything we can to create space for your growth, and if you aren't growing, we'll have the tough conversations required to make sure you get back in the saddle.
 
-*Supporting Principles:*
+*Axioms:*
 - Growth happens when an individual continuously asks themselves: is this the best I can do?
 - To grow, we must step into conversations that feel scary and uncomfortable.  
 - We grow fastest when we solicit feedback from multiple sources.
@@ -39,7 +39,7 @@ We've got a [big mission](https://bench.co/go/culture/). To get there, we all ne
 
 Time is the most precious resource we have. This applies at the organizational level and the individual level. By being intentional with the time we assign to our activities, we create an environment where creativity and ingenuity are the drivers of our success, not the time we spend working. This is how we get to be ferociously effective as an organization while also living rich, sustainable lifestyles as individuals.
 
-*Supporting Principles:*
+*Axioms:*
 - We limit the time we spend on a problem to push ourselves to be creative in solving it.
 - Time spent _doing_ must be balanced by time spent _learning_.
 - The most effective commitments are those made by the individuals doing the work.

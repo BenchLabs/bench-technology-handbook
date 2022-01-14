@@ -27,20 +27,25 @@ If we think of culture as the sum of all conversations, we can sketch this out a
 ```
 If no one says anything:
 
-All the conversations we've had + the inappropriate thing that was said = our culture
+  All the conversations we've had 
++ the inappropriate thing that was said 
+= our culture
 
 If someone says something:
 
-All the conversations we've had + the inappropriate thing that was said + a conversation about how that comment isn't acceptable = our culture
+  All the conversations we've had 
++ the inappropriate thing that was said 
++ a conversation about how that comment isn't acceptable 
+= our culture
 ```
 
 It's that simple: one conversation changes the culture, and another may correct its course.
 
-So, as culture creators, it is up to us to observe the conversations that we're part of. We must then assess: "are these conversations consistent with the culture I'm committed to creating?" If they aren't, it's up to us to make sure our subsequent conversations put us back on track.
+So, as culture creators, it is up to us to observe the conversations that we're part of. We must then ask ourselves: "are these conversations consistent with the culture I'm committed to creating?" If they aren't, it's up to us to make sure our subsequent conversations put us back on track.
 
 ## Culture at scale with principles
 
-At the time this is written, Bench has over 500 employees distributed across North America. At this scale—in order to be able to assess "are these conversations consistent with the culture I'm committed to creating?"—we must explicitly define our culture. This is why we have cultural principles.
+At the time this is written, Bench has over 700 employees distributed across North America. At this scale—in order to be able to ask ourselves "are these conversations consistent with the culture I'm committed to creating?"—we must explicitly define our culture. This is why we have cultural principles.
 
 First, let's look at the Bench Principles:
 
@@ -56,13 +61,58 @@ These principles are designed to describe the _how we do it_ aspect of our cultu
 
 You can think of the five principles as the boundaries for conversations that are consistent with our culture. If a conversation exists within the boundaries of these principles, it is consistent with Bench's culture.
 
-Next, let's look at the _[Technology Principles](technology-principles.md)_:
+## _What we do_ in Technology
+
+In Technology, we love the Bench Principles, but we felt there was something missing. Specifically, we wanted to define _what we do_ in addition to _how we do it_. To achieve this, we decided to write our own, organization-specific principles.
+
+## How we created the Technology Principles
+
+### Step 1
+
+We wrote down what dissatisfied us about our existing culture, and grouped these statements of dissatisfaction into themes.
+
+For example, there was a theme around feedback and learning:
+- Talking to people about their growth often feels like pulling teeth—everyone would rather talk about their project work
+- Individuals are afraid of uncomfortable conversations—some would rather quit their job that have them
+- When feedback is given, it can do more harm than good because either the person giving feedback isn't doing it constructively or the person receiving it isn't emotionally ready to listen
+
+### Step 2
+
+For each theme, we described aspects of a culture that we would prefer to what we're currently seeing. We took these ideas, grouped like concepts together, and wrote them in list format. This list was our first draft of the culture we wanted to create.
+
+Using the example above, the list for the "feedback and learning" theme was:
+- We have consistent, TWO WAY, conversations about growth with our reports
+- Team members understand the transformational power that difficult/scary/uncomfortable conversations can have
+- We have trained our team to give feedback in a way helps others receive it
+
+### Step 3
+
+We phrased the list items as axioms. Where possible, we wrote axioms that covered multiple list items.
+
+> Axiom: a statement which is accepted as self-evidently true.
+
+The discipline of creating axioms forced us to be very specific in defining the building blocks of the culture we wanted to create. The number of axioms in each theme is small, but when read as a group they evoke a beautiful, complex vision for what our culture can be.
+
+Continuing our example, the axioms for the "feedback and learning" theme became:
+- Growth happens when an individual continuously asks themselves: is this the best I can do?
+- To grow, we must step into conversations that feel scary and uncomfortable.
+- Feedback is most effective when those receiving it feel supported by those giving it.
+
+### Step 4
+
+For each theme, we defined an instruction that we believed would result in the culture defined in each set of axioms. These instructions are our principles.
+
+For the "feedback and learning theme", we decided that "Foster Growth" is the instruction most likely to help people achieve the culture defined by the theme's axioms.
+
+## The Technology Principles
+
+Our work resulted in three principles:
 
 - Create Value
 - Foster Growth
 - Honour Time
 
-Where the Bench principles are _how we do it_, the Technology principles are _what we do_. Like the Bench principles, they are designed to be in tension with each other. The ideal state looks like this:
+Like the Bench principles, they are designed to be in tension with each other. The ideal state looks like this:
 
 >  We create immense value in the world while growing tremendously as individuals, and we do so on timelines that push us while also allowing us to live rich personal lives.
 
@@ -76,36 +126,13 @@ As mentioned above, the Bench principles give instructions for _how we do it_, a
 
 So, when we have conversations about _Creating Value_, _Fostering Growth_, and _Honouring Time_, we must ensure that they live within the boundaries set by _Keep it Human_, _Be Responsible_, _Get Scrappy_, _Take a Stand_, and _Default Open_. If this all seems a bit complicated, don't worry: there's a system.
 
-## How we created the Technology Principles
-
-### Step 1
-
-We wrote down what dissatisfied us about our existing culture, and grouped these statements of dissatisfaction into themes.
-
-### Step 2
-
-For each theme, we described aspects of a culture that we would prefer to what we're currently seeing. We took these ideas, grouped like concepts together, and wrote them in list format. This list was our first draft of the culture we wanted to create.
-
-### Step 3
-
-We converted each list item into an axiom. Where possible, we wrote axioms that covered multiple list items.
-
-> Axiom: a statement or proposition which is regarded as being established, accepted, or self-evidently true.
-
-The discipline of creating axioms forced us to be very specific in defining the building blocks of the culture we wanted to create. The number of axioms in each theme is small, but when read as a group they evoke a beautiful, complex vision for what our culture can be.
-
-### Step 5
-
-For each theme, define an instruction that logically follows its axioms. These instructions are our principles: Create Value, Foster Growth, and Honour Time.
-
-
 ## A test suite for our culture
 
-Each of the Technology Principles has a set of supporting principles. _Create Value_, _Foster Growth_, and _Honour Time_ are instructions, and their supporting principles are assertions. These assertions answer the question: "what needs to be true for a conversation to be consistent with this principle?" In practice, we've found that each assertion maps nicely to a Bench principle (though this isn't a hard requirement). This has a really interesting side effect: each assertion effectively becomes a unit test for a conversation.
+The axioms collectively answer the question: "what needs to be true for a conversation to be consistent with this principle?" This has a really interesting side effect: each axiom effectively becomes a unit test for a conversation.
 
-For example, the supporting principle `We are most likely to do high-value work when we see it as necessary to advance a cause that we believe in` is a way to "test" whether a conversation is consistent with both _Create Value_ and _Take a Stand_. Similarly, `Successes and failures are important because of what we learn from them` is a way to "test" whether a conversation is consistent with both _Foster Growth_ and _Default Open_.
+For example, the axiom `We are most likely to do high-value work when we see it as necessary to advance a cause that we believe in` is a way to "test" whether a conversation is consistent with _Create Value_. Similarly, `Successes and failures are important because of what we learn from them` is a way to "test" whether a conversation is consistent with _Foster Growth_.
 
-All together, the supporting principles act as a test suite for our culture. Every conversation we have, whether async or realtime, in a PR or in a Google Doc, can be run through the test suite to determine whether it is consistent with the culture we're creating.
+All together, the axioms act as a test suite for our culture. Every conversation we have, whether async or realtime, in a PR or in a Google Doc, can be run through the test suite to determine whether it is consistent with the culture we're creating.
 
 Consider the following (made up but not uncommon) conversation: 
 
@@ -130,7 +157,6 @@ Failure: The speed at which we learn is the most important factor in our ability
 Reason: Prioritizing a deadline over growth limits the speed of learning.
 ```
 
-
 **Foster Growth**
 ```
 Failure: Growth happens when an individual accepts the monumental challenge of continuously asking themselves: is this the best I can do?
@@ -146,7 +172,7 @@ Failure: Learning and doing are not separate endeavors. Within the time we alloc
 Reason: Somewhere in the planning process a deliverable was agreed on that didn't provide time for learning.
 ```
 
-This tells us that this conversation is not consistent with our culture, and it also gives us a starting place for how to have the _next_ conversation to get back on track. In this case two things are happening: the engineer is letting a deadline take priority over their own growth, and the manager is letting it happen—despite having committed to the `Learning and doing...` and `The speed at which we learn..` supporting principles. That's not how we create value, foster growth, or honour time!
+This tells us that this conversation is not consistent with our culture, and it also gives us a starting place for how to have the _next_ conversation to get back on track. In this case two things are happening: the engineer is letting a deadline take priority over their own growth, and the manager is letting it happen—despite having committed to the `Learning and doing...` and `The speed at which we learn..` axioms. That's not how we Create Value, Foster Growth, or Honour Time!
 
 Guided by our principles, a subsequent conversation could be:
 
@@ -172,4 +198,4 @@ so we can review them async before our meeting.
 
 This time, the manager steps right into the uncomfortable situation, and doesn't let the engineer off the hook for de-prioritizing their own growth. Notice that this is done with respect and compassion—there is no blame placed, and it is phrased in a supportive manner. As a result the engineer gets fired up by suddenly seeing that they can make space for their own growth, and goes beyond the original request from their manager. _This_ conversation is consistent with our culture, and it sets up their next conversation as well.
 
-In the event that a conversation doesn't fail any tests and _still_ feels inconsistent with our culture, we're probably just missing a supporting principle. If this happens, bring the conversation to your manager so you can run it through the test suite together and identify what's missing—as our culture matures, our test suite must mature with it.
+In the event that a conversation doesn't fail any tests and _still_ feels inconsistent with our culture, we're probably just missing an axiom. If this happens, bring the conversation to your manager so you can run it through the test suite together and identify what's missing—as our culture matures, our test suite must mature with it.
