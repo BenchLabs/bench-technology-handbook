@@ -10,7 +10,7 @@ This is a scrappy, default open resource. We're releasing this imperfect early v
   - [Culture and Principles](culture-and-principles.md)
   - [Technology Principles](technology-principles.md)
   - [Bench Principles (Public Website)](https://bench.co/go/culture)
-  - [Blameless Culture (blog post)](https://medium.com/bench-engineering/breaking-good-55fed1d81aac)
+  - [Assertions and Assessments](assertions-and-assessments.md)
 - [How we're organized](how-were-organized.md)
 - How we deliver
   - [How we invest our time](how-we-invest-our-time.md)
