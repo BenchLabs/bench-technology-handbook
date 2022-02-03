@@ -38,7 +38,7 @@ The Data team owns our data pipelines and warehouse. They create the data infras
 
 ### Platform
 
-The Platform team owns our cloud infrastructure, our build pipeline, and our development environment. They play a big role in enabling Product Engineering, IT, and Data with infrastructural support and guidance. 
+The platform team own our cloud infrastructure including securing it. This team builds and maintains the interfaces that Benchmates use to create value for our customers, and they play a big role in enabling Product Engineering, IT, and Data with infrastructural support and guidance.
 
 ### Bench Application Support (BAS)
 
@@ -50,7 +50,7 @@ The Support Engineering team's primary concern is KTLO in our application level,
 
 ### Developer Experience and Impact (DXI)
 
-The DXI team is focused on tools, frameworks, techniques, practices, and systems that help bring joy to the software development experience and to reduce any negative impacts, friction, and pain that our engineers experiencing while building our software.
+The DXI team is focused on tools, frameworks, techniques, practices, and systems that help bring joy to the software development experience. Their goal is to reduce any negative impacts, friction, and pain that our engineers experiencing while building our software, while improving things like application security and developer productivity.
 
 ## Product Engineering
 
