@@ -16,7 +16,7 @@ This document is written to help you understand what each of these teams does. F
   - [Support Engineering](#support-engineering)
   - [Developer Experience and Impact (DXI)](#developer-experience-and-impact-dxi)
 - [Product Engineering](#product-engineering)
-  - [Work Streams](#teams--work-streams)
+  - [Teams & Work Streams](#teams--work-streams)
 - [Design](#design)
 - [Product](#product)
 
