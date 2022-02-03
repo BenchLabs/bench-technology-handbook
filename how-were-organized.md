@@ -1,64 +1,66 @@
 # How we're organized
 
-[![Overview of how the Technology Teams are organized](images/groups-and-functions.png)](images/groups-and-functions.png)
+[![Overview of how the Technology Teams are organized](images/Technology-Team-Structure.jpg)](images/Technology-Team-Structure.jpg)
 
-Creating great technology is a Bench-wide effort. In our day-to-day work, we mostly interface with [8 teams](#groups-and-teams) who report into three departments: `Technology`, `Product`, and `Operations`. The teams are organized into two working groups: `Business Technology (BizTech)` and `Product Development`.
+The Technology Organization is made up of two departments: Business Technology (BizTech) and Product Engineering (Prod Eng). Each department is made up of multiple teams, and each team has a specific mandate. We also work very closely with Product and Design—you'll often hear us using the acronym TPD to describe our working group, which stands for Technology, Product, and Design.
 
-To prevent siloing, we have a **Technical Leadership** group who ensure that the efforts of our teams are complementary, and that our systems are in good health. They work closely with the **Backend Guild** and **Frontend Guild** to create alignment around how we build our technology.
+This document is written to help you understand what each of these teams does. For a deep dive on how we think about investment across all teams, see [How we invest our time](how-we-invest-our-time.md).
 
-Finally, we have **management groups** who oversee the entire organization. They are charged with building and maintaining our culture, and delivering on the promises we make to our clients and the rest of Bench.
-
-This document focuses on what each group does. To understand how we think about investment across all teams, see [How we invest our time](how-we-invest-our-time.md).
-
-## Groups and Teams
+## Departments and Teams
+- [Technology Leadership](#technology-leadership)
 - [BizTech](#biztech)
-  - [Support Engineering](#support-engineering)
-  - [Systems Engineering](#systems-engineering)
   - [IT](#it)
   - [Data](#data)
   - [Platform](#platform)
-- [Product Development](#product-development)
-  - [Product Engineering](#product-engineering)
-  - [Design](#design)
-  - [Product](#product)
+  - [Bench Application Support (BAS)](#bench-application-support-(bas))
+  - [Support Engineering](#support-engineering)
+  - [Developer Experience and Impact (DXI)](#developer-experience-and-impact-(dxi))
+- [Product Engineering](#product-engineering)
+  - [Work Streams](#work-streams)
+- [Design](#design)
+- [Product](#product)
+
+## Technology Leadership
+
+The Technology Leadership group is made up of our VP, our Directors, our Principal Engineer, and our Manager of Technology Culture Systems. The members of this team are the stewards of our Technology Culture, and work together to build systems that enshrine our principles.
 
 ## BizTech
 
-The Business Technology group exists to support the implementation, creation, and use of technology across Bench. The group's primary function is KTLO and Support; indeed many of the BizTech teams use JIRA support desk to manage the support requests that they receive. It is made up of the **Platform**, **Support Engineering**, **Systems Engineering** **Data**, **IT**, and **Bench App Support** teams.
+The Business Technology group exists to support the implementation, creation, and use of technology across Bench. The group's primary function is KTLO (Keeping The Lights On) and Support; indeed many of the BizTech teams use JIRA support desk to manage the support requests that they receive. It is made up of the **IT**, **Data**, **Platform**, **Bench Application Support (BAS)**, **Support Engineering**, and **Developer Experience and Impact (DXI)** teams.
 
-### Platform
+### IT
 
-The Platform team owns our cloud infrastructure, our build pipeline, and our development environment. They play a big role in enabling Product Engineering, IT, and Data with infrastructural support and guidance. 
-
-### Support Engineering
-
-The Support Engineering team's primary concern is Keeping the Lights On (KTLO) at the application level, their secondary concern is supporting stakeholder requests that are "too small for a pitch", and their tertiary concern is innovating to make both KTLO and supporting stakeholders more efficient. Support Engineering works closely the rest of BizTech to handle the issues, outages, and stakeholder requests that arise during our build cycles. In effect, the Support Engineering team makes the Product Engineering cycles _possible_ by absorbing the myriad distractions that would otherwise derail their focus. The number of engineers on the Support team Engineering scales based on total number of clients, a proxy for business complexity.
-
-### Systems Engineering
-
-The Systems Engineering team is focused on improving our technology and processes to enhance the speed and quality of our engineering, with a strong focus on the reduction of technical debt. Unlike Support Engineering, they work with few distractions in order to increase the speed with which they can make improvements.
+The IT team owns our physical infrastructure (wifi, on-prem VPN, laptops, etc) as well as the access to our software (think Okta, Salesforce, etc). They are also responsible for onboarding, offboarding, and a significant amount of our security controls.
 
 ### Data
 
 The Data team owns our data pipelines and warehouse. They create the data infrastructure required for us to make business decisions with ever-increasing speed and accuracy, and lead data analysts across Bench in adopting better technology and practices to accomplish this. They test their data infrastructure and processes by serving the Product team directly as analysts, and by filling any gaps in reporting and analysis that emerge from requests of analysts outside the Data team.
 
-### IT
+### Platform
 
-The IT team owns our physical infrastructure (wifi, on-prem VPN, laptops, etc) as well as the access to our software (think Okta, Salesforce, etc). They are responsible for onboarding, offboarding, and a significant amount of our security controls.
+The Platform team owns our cloud infrastructure, our build pipeline, and our development environment. They play a big role in enabling Product Engineering, IT, and Data with infrastructural support and guidance. 
 
-_NOTE: BAS actually reports into Operations, but they're a key contributor to BizTech's success_
+### Bench Application Support (BAS)
 
-## Product Development
+BAS handles all internal and external bug reports, questions, and stakeholder requests. They're also experts in our applications, and regularly provide help and training to unblock other Benchmates. Increasingly they're taking on other functions, like QA and security compliance.
 
-The Product Development group is charged with building technology that creates growth opportunities for Bench. This can be in the form of new products, like Bench Banking, or in improvements to existing products and workflows. The three teams within the group work very closely together in this work.
+### Support Engineering
 
-### Product Engineering
+The Support Engineering team's primary concern is KTLO in our application level, their secondary concern is supporting stakeholder requests that are "too small for the roadmap", and their tertiary concern is innovating to make both KTLO and supporting stakeholders more efficient. Support Engineering works closely with the rest of BizTech to handle the issues and outages if/when they arise. In effect, the Support Engineering team allows Product Engineering to execute with increased focus. 
 
-The Product Engineering group works in build cycles based on the model described in [Shape Up](https://basecamp.com/shapeup/webbook). This system optimizes for two things. First, it ensures that what we're working on _right now_ aligns with Bench's strategy. Second, it ensures the creation of value on a regular cadence—projects aren't allowed to take longer than the build cycle. How it works:  
+### Developer Experience and Impact (DXI)
 
-Every 8ish weeks the Product team (in collaboration with Engineering and Design) submits pitches for projects for the coming cycle, and senior leaders bet on the ones that they believe will have the biggest impact for our clients. The engineers (in collaboration with Product and Design) then spend 6 focused weeks on the projects that were chosen, and deliver the maximum value that we can within this timeframe. This is followed by 2 weeks of cooldown to handle the various maintenance, refactors, and improvements that have been tabled for the previous six weeks. If a project isn't finished, it can be re-bet upon in the coming cycle.
+The DXI team is focused on tools, frameworks, techniques, practices, and systems that help bring joy to the software development experience and to reduce any negative impacts, friction, and pain that our engineers experiencing while building our software.
 
-For a deeper dive on this process, check out [this post on our blog](https://medium.com/lifeatbench/how-we-build-product-at-bench-a095d7f62872).
+## Product Engineering
+
+The Product Engineering team works closely with Product and Design to build technology that creates growth opportunities for Bench. This can be in the form of new products, or in improvements to existing products and workflows. They are key players in executing both our Technical and Product Roadmaps.
+
+### Teams & Work Streams
+
+_Work Stream: A time-bound area of investment. ie. Bookkeeper Efficiency, Self-Serve Onboarding_
+
+There are currently 6 teams in Product Engineering. Each of these teams focus on one work stream at a time. Work streams are long-lived, generally 6-18 months. The teams are made up several Product Engineers, a Product Manager, and a Designer.
 
 ### Design
 
