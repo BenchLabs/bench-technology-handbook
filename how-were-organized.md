@@ -1,6 +1,6 @@
 # How we're organized
 
-[![Overview of how the Technology Teams are organized](images/Technology-Team-Structure.jpg)](https://raw.githubusercontent.com/BenchLabs/bench-technology-handbook/images/Technology-Team-Structure.jpg)
+[![Overview of how the Technology Teams are organized](images/Technology-Team-Structure.jpg)](https://raw.githubusercontent.com/BenchLabs/bench-technology-handbook/master/images/Technology-Team-Structure.jpg)
 
 The Technology Organization is made up of two departments: Business Technology (BizTech) and Product Engineering (Prod Eng). Each department is made up of multiple teams, and each team has a specific mandate. We also work very closely with Product and Design—you'll often hear us using the acronym TPD to describe our working group, which stands for Technology, Product, and Design.
 
