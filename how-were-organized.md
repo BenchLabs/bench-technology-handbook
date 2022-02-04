@@ -1,6 +1,6 @@
 # How we're organized
 
-[![Overview of how the Technology Teams are organized](images/Technology-Team-Structure.jpg)](images/Technology-Team-Structure.jpg)
+[![Overview of how the Technology Teams are organized](images/Technology-Team-Structure.jpg)](https://raw.githubusercontent.com/BenchLabs/bench-technology-handbook/images/Technology-Team-Structure.jpg)
 
 The Technology Organization is made up of two departments: Business Technology (BizTech) and Product Engineering (Prod Eng). Each department is made up of multiple teams, and each team has a specific mandate. We also work very closely with Product and Design—you'll often hear us using the acronym TPD to describe our working group, which stands for Technology, Product, and Design.
 
@@ -30,7 +30,7 @@ The Business Technology group exists to support the implementation, creation, an
 
 ### IT
 
-The IT team owns our physical infrastructure (wifi, on-prem VPN, laptops, etc) as well as the access to our software (think Okta, Salesforce, etc). They are also responsible for onboarding, offboarding, and a significant amount of our security controls.
+The IT team owns and supports our physical infrastructure (wifi, on-prem VPN, laptops, etc) as well as the administrating and maintaining access control to various software. They are also responsible for onboarding, offboarding, and a significant amount of our security controls.
 
 ### Data
 
@@ -42,11 +42,11 @@ The platform team own our cloud infrastructure including securing it. This team 
 
 ### Bench Application Support (BAS)
 
-BAS handles all internal and external bug reports, questions, and stakeholder requests. They're also experts in our applications, and regularly provide help and training to unblock other Benchmates. Increasingly they're taking on other functions, like QA and security compliance.
+BAS triages internal and external bug reports, questions, and stakeholder requests. They're experts in our applications, and regularly provide help and training to empower other Benchmates. Increasingly they're taking on other functions, like QA, site updates, and compliance.
 
 ### Support Engineering
 
-The Support Engineering team's primary concern is KTLO in our application level, their secondary concern is supporting stakeholder requests that are "too small for the roadmap", and their tertiary concern is innovating to make both KTLO and supporting stakeholders more efficient. Support Engineering works closely with the rest of BizTech to handle the issues and outages if/when they arise. In effect, the Support Engineering team allows Product Engineering to execute with increased focus. 
+Support Engineering's primary concern is KTLO in our application, balancing their remaining capacity between supporting stakeholders with features that are too small for the roadmap and innovating to make both KTLO and supporting stakeholders more efficient. Sup Eng and BAS work together to handle crises when they occur, pulling in other BizTech teams or Product Engineering if needed.
 
 ### Developer Experience and Impact (DXI)
 
@@ -60,12 +60,12 @@ The Product Engineering team works closely with Product and Design to build tech
 
 _Work Stream: A time-bound area of investment. ie. Bookkeeper Efficiency, Self-Serve Onboarding_
 
-There are currently 6 teams in Product Engineering. Each of these teams focus on one work stream at a time. Work streams are long-lived, generally 6-18 months. The teams are made up several Product Engineers, a Product Manager, and a Designer.
+There are currently 6 teams in Product Engineering. Each of these teams focus on one work stream at a time. Work streams are long-lived, generally 6-18 months. The teams are made up an Engineering manager, a Product Manager, a Designer, and several Product Engineers.
 
-### Design
+## Design
 
 The Design team is asked to concretely point toward a future that doesn’t exist yet. They work closely with the Product team to deeply understand problems, and with the Product Engineers to deeply understand potential solutions, and use that understanding to define in real terms how the next thing we build will work and what it will look like. They work directly alongside engineers in the Focus track to bring these solutions into reality.
 
-### Product
+## Product
 
 The Product team is asked to deeply understand our domain, our clients, and our business strategy. They are experts in distilling the problems our clients face, and for suggesting innovations that solve or reduce these problems. They work closely with Design and the Product Engineers.
