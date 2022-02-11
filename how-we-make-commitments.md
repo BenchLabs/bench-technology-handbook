@@ -1,8 +1,8 @@
 # How we make commitments
 
-At Bench, we have lots of conversations. These conversations are frequently about how we want to improve things. So how do we make sure that things _actually happen_ as a result of these conversations? We make commitments.
+A company—especially a start up—is just a group of people with a shared vision of the future. We bring this future into the present by _talking about it_, together. In this page, we introduce a framework that helps us turn these conversations into actions. Through these actions the future we dreamed about becomes the present we live in.
 
-Making commitments is not a natural phenomenon. It requires practice, and it's okay if it feels awkward at first. We've built this page as a reference to help you with your practice.
+We call this framework _Making Commitments_. It is not a natural phenomenon. It requires practice, and it's okay if it feels awkward at first. We've built this page as a reference to help you with your practice.
 
 ## Commitment flowchart
 
