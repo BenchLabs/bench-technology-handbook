@@ -28,7 +28,7 @@ _Inspiring Action_ has its foundation in two [acts of speech](#additional-resour
 > Assessment are evaluations, judgments, or opinions about the world. They are claims made by the speaker, but unlike assertions they cannot be verified by witnesses. The second set of three statements listed above qualify as assessments by this definition.
 > 
 > Many people do not distinguish between assertions and assessments, a confusion that leads to misunderstandings and miscoordinations. You have seen this all too often when someone claims their opinion is a fact; they will often persist with their claim even when you point out that it is only an opinion. A stereotypical example is:
-> - “My candidate is he best qualified for president.”
+> - “My candidate is the best qualified for president.”
 > - “That’s just your opinion.”
 > - “No, it’s a fact.”
 >
@@ -72,7 +72,7 @@ Next, let's look at a conversation where assertions are relevant yet insufficien
 - **Person 1**: We're experiencing an outage!
 - **Person 2**: Can you tell me more?
 - **Person 1**: We're recording elevated 500 errors in [a key system].
-- **Person 2**: How does these compare to normal levels?
+- **Person 2**: How do these compare to normal levels?
 - **Person 1**: They are slightly higher than normal.
 - **Person 2**: How long have we been recording these errors?
 - **Person 1**: We went slightly over our threshold 20 minutes ago. Looking more stable now.
@@ -83,7 +83,7 @@ Now, let's look a conversation where the assessment is grounded in a way that co
 - **Person 1**: We're experiencing an outage!
 - **Person 2**: Can you tell me more?
 - **Person 1**: We're recording elevated 500 errors in [a key system].
-- **Person 2**: How does these compare to normal levels?
+- **Person 2**: How do these compare to normal levels?
 - **Person 1**: They are significantly higher: there's a big, sudden spike.
 - **Person 2**: How long have we been recording these errors?
 - **Person 1**: 14 minutes.
