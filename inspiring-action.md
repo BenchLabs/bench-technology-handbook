@@ -156,7 +156,9 @@ What if Person 1's assessment were made from above the line?
 
 This conversation has the same assertions as the conversation above it. The difference is that this assessment is made from above the line: full of ownership, responsibility, and accountability. Person 2 accepts the assessment, and is even inspired to offer their help. Action is imminent.
 
-The line acts as an acid test for the effectiveness of an assessment. If an assessment is made from below the line, it presents a limited view of how things might get better. Therefore, it is unlikely to inspire action from others. If an assessment is made from above the line, it presents an expansive and inclusive view of how things might get better. Therefore, it is more likely to inspire action from others.
+### Summary: Inspiring Action
+
+Assessments can only inspire action if they are accepted. For assessments to be accepted, they need to be grounded with assertions that are both relevant and satisfying to the listener(s). If an assessment is made from below the line, it presents a limited view of how things might get better; therefore, it is unlikely to inspire action from others. If an assessment is made from above the line, it presents an expansive and inclusive view of how things might get better; therefore, it is more likely to inspire action from others.
 
 ## Practicing this Skill
 
