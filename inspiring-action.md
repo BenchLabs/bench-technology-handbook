@@ -43,7 +43,7 @@ _Inspiring Action_ has its foundation in two [acts of speech](#additional-resour
 
 ### Grounded and Ungrounded Assessments
 
-The vast majority of the time, when describe the world around us, we are making assessments, not assertions. This is entirely natural—we perceive reality via our uniquely configured senses, and understand it relative to our lived experiences. We therefore tend to describe the world as it relates to us, not as a set of statements about things that can be witnessed.
+The vast majority of the time, when we describe the world around us, we are making assessments, not assertions. This is entirely natural—we perceive reality via our uniquely configured senses, and understand it relative to our lived experiences. We therefore tend to describe the world as it relates to us, not as a set of statements about things that can be witnessed.
 
 Take a moment to reflect on some of the assessments you've made or heard recently with your teams (if it helps, we can use other descriptors here, like "opinions" and "arguments"). Were some of these assessments strong and inspiring? Were others weak and unconvincing? What is the cause of this difference?
 
@@ -84,21 +84,25 @@ Now, let's look a conversation where the assessment is grounded in a way that co
 - **Person 2**: Can you tell me more?
 - **Person 1**: We're recording elevated 500 errors in [a key system].
 - **Person 2**: How do these compare to normal levels?
-- **Person 1**: They are significantly higher: there's a big, sudden spike.
+- **Person 1**: They are significantly higher: they jump to about 10 times our normal levels.
 - **Person 2**: How long have we been recording these errors?
 - **Person 1**: 14 minutes.
 - **Person 2**: I agree: we're experiencing an outage. 
 _(Action follows)_
 
-Take a moment to observe what happened here. Person 1 made an assessment. It was grounded through conversations with Person 2. Person 2 accepted the assessment. Now, they are prepared to take action.
+Take a moment to observe what happened here. Person 1 made an ungrounded assessment. Person 2 systematically grounds this assessment through conversation before accepting it. Now, they are prepared to take action.
 
-Note that in the conversations above Person 2 comes across as a leader, and Person 1 doesn't. This is because Person 2 is relentless in gathering assertions before accepting Person 1's assessment. Person 1 would show up very differently if they had grounded their initial assessment:
+Which of the two people in the conversation above did you assess as a stronger communicator? Which one is showing up as a leader? Was it the person whose conversation resulted in the assessment being grounded?
 
-- **Person 1**: We're recording a sudden, big spike in errors in [a key system]. This spike has been sustained for 14 minutes. We're experiencing an outage.
+Let's look at another flavour of the same conversation:
+
+- **Person 1**: We're recording a spike in 500 errors in [a key system]. Roughly 10 times our normal levels. This spike has been sustained for 14 minutes. We're experiencing an outage.
 - **Person 2**: Agreed.
 _(Action follows)_
 
-This is a significantly more effective conversation. Person 1 provided their assertions before making the assessment. These assertions were relevant to the assessment, and met Person 2's criteria of acceptability. In this short exchange, Person 1 prepared their team for action. This is how strong leaders communicate.
+This is a significantly more effective conversation. Person 1 provided their assertions before making the assessment. These assertions were relevant to the assessment, and met Person 2's criteria of acceptability. In this short exchange, Person 1 prepared their team for action.
+
+Both of these conversations had the same outcome. The second conversation reaches alignment with half the words spoken. How different would your daily work be if you could consistently reach alignment in half the time?
 
 Keep in mind that grounding an assessment doesn't make it true. While it is derived from measurable facts, a grounded assessment is still one's interpretation of a situation, nothing more. For example, in the example above, the 500 errors could have been the result of a scheduled migration that neither person knew about. We must always remain open to more assertions, _especially_ if they disqualify our current assessments.
 
@@ -114,16 +118,17 @@ The above image shows a very popular coaching tool: the idea of your internal "l
 
 ![A black line with words that describe above and below the line around it](images/the-line-complete.png)
 
-We all live on both sides of the line. That's what it is to be human. Indeed the oldest parts of our brain are _hardwired_ to place us below the line to ensure our survival in the event of a threat. The problem is that they can't differentiate  a threat to our person from a threat to our ego.
+We all live on both sides of the line. That's what it is to be human. Indeed the oldest parts of our brain are _hardwired_ to place us below the line to ensure our survival in the event of a threat. The problem is that they can't differentiate  a threat to our person from a threat to our ego. This is an important point: it is literally impossible to be above the line if you are in a situation that you find threatening.
 
-We must therefore engage in the practice of asking ourselves whether we are above the line or below the line in any situation. Being below the line isn't a bad thing, but it is  important to recognize—when you're below the line, you're not in a place where you can be a great teammate or leader. Your location relative to the line will show up in your mood, your physicality, and your conversations—particularly in the assessments that you make.
+There is a thorny aspect of this framework (and many other such frameworks): it was developed and promoted by people who have the privilege of rarely feeling threatened at work. Let's acknowledge that this is an area of inequality that we must all strive to overcome. Being below the line is not a failure. It is an opportunity for a conversation about what needs to be true for you to locate yourself above the line. Ideally this conversation can happen with your team. If it can't, you can try your manager, someone on our People team, or our anonymous feedback channel.
 
+### Summary: Above/Below the Line
 
-If you find yourself describing the world from below the line, it's a perfect time to take a breath, and either "relocate"  your inner self or remove yourself from the conversation until you can.
+"The line" gives us a tool for assessing our internal location in any situation. This location will show up in your mood, your physicality, and your conversations—particularly in the assessments that you make. Being below the line isn't a bad thing, but it is important to recognize—when you're below the line, you're not in a place where you can be a great teammate or leader. If you find yourself below the line, it's a perfect time to stop and take a few breaths. Sometimes that's all you need to "relocate" your inner self. Sometimes it isn't, and you'll need to either disclose where you're at, or remove yourself from the conversation until you can get above the line.
 
 ## Inspiring Action
 
-We now understand assessments and "the line". When we combine these two concepts, we create conversations that are more likely to **inspire action** from others.
+We now understand Assessments and "The Line". When we combine these two concepts, we create conversations that are more likely to **inspire action** from others.
 
 Let's take a moment to review an important part of Denning's definition of Assessments:
 
@@ -140,7 +145,7 @@ This definition is steeped in ownership, responsibility, and accountability. The
 
 Person 1 makes the assessment that they're horribly unproductive at work. This is an assessment made from below the line: full of self-doubt, anxiety, and perhaps fear of the consequences. Person 2 commiserates, and ultimately accepts Person 1's assessment. Has this conversations inspired anyone to take action?
 
-So what if this assessment were made from above the line?
+What if Person 1's assessment were made from above the line?
 
 - **Person 1**: I need to level up my participation in meetings and take control of my calendar.
 - **Person 2**: Yeah?
@@ -155,7 +160,7 @@ The line acts as an acid test for the effectiveness of an assessment. If an asse
 
 ## Practicing this Skill
 
-There are many components to this skill:
+There are many components of the _Inspiring Action_ skill:
 1. Identifying if a statement is an assertion or an assessment
 2. Identifying if an assessment is grounded
 3. Grounding assessments in conversation
@@ -166,7 +171,7 @@ There are many components to this skill:
 
 We recommend that each be practiced first in isolation, and then together. 
 - 1 and 2 can be practiced when listening to any conversation. 
-- 3 and 4 are best practiced in groups—this is a great as a team building exercise. 
+- 3 and 4 are best practiced in groups—this is great as a team building exercise. 
 - 5 is an introspective practice that often requires input from a coach: 1:1s are a great venue for this. 
 - 6 requires competence in the first 5 skills, and is best done in groups (to help ground these assessments about assessments!)
 - 7 is best practiced when _you_ want to see something change. The best way to learn is to try to inspire others to take action!
