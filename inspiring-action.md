@@ -194,5 +194,5 @@ Don't worry. We will also practice this as a team, _a lot_. The good news is tha
 
 - [Assertions and Assessments](https://denninginstitute.com/pjd/TT/AssertAssess.pdf), Peter J. Denning
 - [Speech Acts](https://s3.amazonaws.com/cgdoc/speech_acts.pdf), Ed Stroupe
-- [Locating Yourself - A Key to Conscious Leadership](https://www.youtube.com/watch?v=fLqzYDZAqCI), The Conscious Leadership Group
-- [Above The Line – Are You Worth Following?](https://www.youtube.com/watch?v=4uv_g1hQtKE), DeviateLLC
+- [Developing a Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+- [Mindset: The New Psychology of Success (book)](https://www.amazon.ca/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/)
