@@ -128,7 +128,7 @@ _This section is deeply influenced by Carol Dweck's book,_ [Mindset](#additional
 
 The summary of the previous section provides a strong structural understanding of assessments, how to ground them, and how to have them be accepted. What about the content of the assessment itself? Are there some assessments that are worded in a way that makes them more effective? We believe that we can measure the effectiveness of an assessment by it's likelihood to **inspire action**.
 
-Assessments can be put into two categories: "open door assessments" and "closed door assessments". An open door assessment is an assessment that describes the world as something ready for change. An closed door assessment describes the world as something fixed or inevitable.
+Assessments can be put into two categories: "open door assessments" and "closed door assessments". An open door assessment is an assessment that describes the world as something ready for change. A closed door assessment describes the world as something fixed or inevitable.
 
 Let's look at an example of a closed door assessment:
 
