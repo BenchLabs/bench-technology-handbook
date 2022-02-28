@@ -6,18 +6,18 @@ This is a scrappy, default open resource. We're releasing this imperfect early v
 
 ## Contents
 
-- Culture
-  - [Culture and Principles](culture-and-principles.md)
-  - [Technology Principles](technology-principles.md)
+- Resources
   - [Bench Principles (Public Website)](https://bench.co/go/culture)
-  - [Blameless Culture (blog post)](https://medium.com/bench-engineering/breaking-good-55fed1d81aac)
-- [How we're organized](how-were-organized.md)
-- How we deliver
+  - [Technology Principles](technology-principles.md)
+  - [Competencies by role (public)](https://docs.google.com/spreadsheets/d/1rV2q8TJaY8gHhuAhXaHBLJdld3XLdJG-UbL706SkCAY/edit#gid=221997572)
+- Core Skills
+  - [Inspiring Change](assertions-and-assessments.md)
+  - [Culture and Principles](culture-and-principles.md)
+- Guides
+  - [How we're organized](how-were-organized.md)
   - [How we invest our time](how-we-invest-our-time.md)
   - [How we make commitments](how-we-make-commitments.md)
   - [How we build product (blog post)](https://medium.com/lifeatbench/how-we-build-product-at-bench-a095d7f62872)
-- Compensation
   - [How we set salaries](how-we-set-salaries.md)
-  - [Competencies by role (public)](https://docs.google.com/spreadsheets/d/1rV2q8TJaY8gHhuAhXaHBLJdld3XLdJG-UbL706SkCAY/edit#gid=221997572)
-- [How to quit](how-to-quit.md)
+  - [How to quit](how-to-quit.md)
 
