@@ -1,6 +1,6 @@
 # Inspiring Action
 
-Language is our most potent tool for both understanding and changing the world. It is deeply social: we speak—and, in the age of instant messaging, write—so that others may hear us. In turn, they speak so that we may hear them. Through these conversations we learn, we teach, and we shape the world as we know it.
+Language is our most potent tool for both understanding and changing the world. It is deeply social: we speak so that others may hear what we've learned, what we've experienced, and how we feel; we listen to deepen our understanding, to challenge and/or confirm our beliefs. Through these conversations we build an understanding of the world we live in, and we decide what it will look like in the future.
 
 In our Core Skills practice, we will be focusing on a specific subset of language: speech acts. There are five categories of speech acts: assertions, assessments, requests, promises, and declarations. We use the first two to describe the world around us. We use the latter three to change it.
 
@@ -110,6 +110,14 @@ Both of these conversations had the same outcome. The second conversation result
 
 Keep in mind that grounding an assessment doesn't make it true. While it is derived from observable facts, a grounded assessment is still one's interpretation of a situation, nothing more. For example, in the example above, the 500 errors could have been the result of a scheduled migration that neither person knew about. We must always remain open to more assertions, _especially_ if they disqualify our current assessments.
 
+### Taking responsibility for your assessments
+
+From Denning's definition of an assessment:
+
+> Like assertions, assessments are accompanied by commitments from the speaker. This time the commitment is to stand behind the assessment, to take responsibility for it, and to deal with consequences that may follow when people act on the assessment.
+
+This portion of the definition deserves to be called out. When we make assessments, they have an effect on the people who are listening. As a person making assessments, you must therefore consider what that effect will be. Sometimes you will have the clarity of mind to do this in advance, and sometimes you won't. Regardless, you need to deal with the consequences, and clean up if needed.
+
 ### Summary: Assertions and Assessments
 
 Assertions seek to describe the world objectively. Assessments seek to describe the world in a way that prepares others for action. People must accept an assessment before they're willing to take action. For an assessment to be accepted, it must be grounded by relevant assertions that are sufficient to satisfy whatever criteria the listeners have. Therefore, when grounding assessments, we must both pro-actively provide our assertions and listen for any remaining unsatisfied criteria.
@@ -150,8 +158,8 @@ Every situation can be described with a closed door assessment or an open door a
 
 | Closed | Open |
 |--------|------|
-|This team performed poorly and didn't deliver on time.|Missing our deadline helped us identify several areas for improvement.|
-|This is low quality work.|This is a great first try.|
+|This was way harder than we expected so we missed our deadline.|We missed our deadline, but we identified what we need to improve for next time.|
+|This is low quality code.|This code will need changes before it's ready.|
 |I can't do this!|I can't do this yet!|
 
 So far, we've focused on assessments of "negative" situations. It's worth noting that open door assessments and closed door assessments also apply to "positive" situations:
@@ -185,6 +193,7 @@ Then, as part of your conversation, you can work towards _Inspiring Action_:
 - **Ungrounded assessment:** Thank you for your assessment, can you please ground it for me?
 - **Unaccepted assessment:** Here's what's missing for me to be able to accept this assessment: ____.
 - **Grounded, closed door assessment:** I accept your assessment, but I don't know what to do about it. Do you see a path to positive change?
+- **Grounded, open door assessment:** I accept your assessment, let's work together to improve this situation!
 
 When communication asynchronously, we have the benefit of significantly more time between messages. Here, you can also practice _pro-actively_ grounding your assessments. See if you can get an assessment accepted in a single go!
 
@@ -195,4 +204,4 @@ Don't worry. We will also practice this as a team, _a lot_. The good news is tha
 - [Assertions and Assessments](https://denninginstitute.com/pjd/TT/AssertAssess.pdf), Peter J. Denning
 - [Speech Acts](https://s3.amazonaws.com/cgdoc/speech_acts.pdf), Ed Stroupe
 - [Developing a Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-- [Mindset: The New Psychology of Success (book)](https://www.amazon.ca/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/)
+- [Mindset: The New Psychology of Success (book)](https://vpl.bibliocommons.com/v2/record/S38C1348820)
