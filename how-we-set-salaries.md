@@ -10,9 +10,9 @@ At Bench, there are two key components of salary: market value and competency. *
 
 ### How we determine market value
 
-The first step in determining market value is clearly defining the roles within your organization and the competencies for each role. Our Technology department uses numbered levels to separate roles on our teams. As an example, we go from Engineer 1 to Engineer 6 and each comes with its own clear competencies. 
+The first step in determining market value is clearly defining the titles within your organization and the skill level required for each title. As an example, engineers at Bench can progress from Engineer 1 to Engineer 6. Each step comes with clear expectations of the level of skill a given title requires for each component of the role. 
 
-Once the competencies were clearly defined, we compared them to the two salary databases that we purchase annually: Radford and HR Tech. Salary databases like these collect data from thousands of companies each year. For each job title, they provide the median and mean salaries at the 50th, 75th, and 90th percentile. The basic idea is that you find matches in their database for the roles in your organization, and then use their data to set a competitive salary midpoint—in our case, at the 75th percentile for the North American market.
+Once the skill levels were clearly defined, we compared them to the two salary databases that we purchase annually. Salary databases like these collect data from thousands of companies each year. For each job title, they provide the median and mean salaries at the 50th, 75th, and 90th percentile. The basic idea is that you find matches in their database for the roles in your organization, and then use their data to set a competitive salary midpoint—in our case, at the 75th percentile.
 
 Salary databases are useful tools for creating a competitive salary program, but they need to be taken with a grain of salt. Job titles are non-standard, and often company-size-dependent. For example, a CTO at a 5-person startup is a very different job from a CTO with a 1,000-person technology team. We've learned that it's rare to find a perfect match to a job title in the database, so the trick is to find those that are closest, and then use a combination of other sources–like job postings and exit interviews–to set the salary midpoint.
 
@@ -20,7 +20,7 @@ Once we've chosen the salary midpoint for a role, creating salary bands is strai
 
 ### How we determine competency
 
-Salary bands set the market context for a role, and competency determines an employee's location within the band. We use the competencies that we defined for each role to determine an employee's competency on an annual basis. Here's how it works: 
+Salary bands set the market context for a role, and competency determines an employee's location within the band. We use the skill levels that we defined for each role to determine an employee's competency on an annual basis. Here's how it works: 
 
 - The Benchmate does a self-evaluation, marking each skill as either “Yes, I have this skill”, “Not yet”, “Set as objective”–indicating a desire to be doing this within 6 months–or “Not sure”–indicating a desire to have a conversation about it.  
 - The manager reviews the Benchmate’s self-evaluation. 
@@ -29,13 +29,11 @@ Salary bands set the market context for a role, and competency determines an emp
  - We use the ratio of skills they have to the total skills required for their role to calculate their position in the band (0.8-1.2) using a default open formula. We call this number the compa-ratio.
  - We then multiply the salary midpoint by their compa-ratio to determine salary
 
-This bullet list looks quite simple, but in reality these sessions are full of deeply honest conversations about growth. They help us set growth objectives, they specify areas of focus, and they ensure that every salary decision that we make is backed by a transparent, documented, and repeatable process.
+This bullet list looks quite simple, but in reality these sessions are full of deeply honest conversations about growth. These assessment conversations are so useful, we conduct them at least twice a year! They help us set growth objectives, they specify areas of focus, and they ensure that every salary decision that we make is backed by a transparent, documented, and repeatable process. Please note that salary only changes once per year, in either January or July, and the date of your compensation-impacting assessment is determined by your start date. 
 
 ### How do we handle changes in market value?
 
-If the market changes and salary midpoints are higher, we can simply multiply these midpoints by the compa-ratio to determine updated salaries. This is significantly more efficient than re-reviewing every person every time the market changes. It's also worth noting that we never decrease salaries when the market goes down.
-
-We review market data and updating salary bands at least once per year.
+We review market data and updating salary bands at least once per year. If the market changes and salary midpoints are higher, we can simply multiply these midpoints by the compa-ratio to determine updated salaries. This is significantly more efficient than re-reviewing every person every time the market changes. It's also worth noting that we never decrease salaries when the market goes down.
 
 ## Promotions
 
