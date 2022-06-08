@@ -42,11 +42,11 @@ The platform team own our cloud infrastructure including securing it. This team 
 
 ### Bench Application Support (BAS)
 
-BAS triages internal and external bug reports, questions, and stakeholder requests. They're experts in our applications, and regularly provide help and training to empower other Benchmates. Increasingly they're taking on other functions, like QA, site updates, and compliance.
+BAS triages internal and external bug reports, questions, and collaborator requests. They're experts in our applications, and regularly provide help and training to empower other Benchmates. Increasingly they're taking on other functions, like QA, site updates, and compliance.
 
 ### Support Engineering
 
-Support Engineering's primary concern is KTLO in our application, balancing their remaining capacity between supporting stakeholders with features that are too small for the roadmap and innovating to make both KTLO and supporting stakeholders more efficient. Sup Eng and BAS work together to handle crises when they occur, pulling in other BizTech teams or Product Engineering if needed.
+Support Engineering's primary concern is KTLO in our application, balancing their remaining capacity between supporting the business with features that are too small for the roadmap and innovating to make both KTLO and support more efficient. Sup Eng and BAS work together to handle crises when they occur, pulling in other BizTech teams or Product Engineering if needed.
 
 ### Developer Experience and Impact (DXI)
 
