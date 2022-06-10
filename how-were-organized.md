@@ -40,13 +40,17 @@ The Data team owns our data pipelines and warehouse. They create the data infras
 
 The platform team own our cloud infrastructure including securing it. This team builds and maintains the interfaces that Benchmates use to create value for our customers, and they play a big role in enabling Product Engineering, IT, and Data with infrastructural support and guidance.
 
+### Business Operations Support (BOS)
+
+BOS is focused on the health of our CRM and the various tools that integrate with it. They triage and respond to issues with our Salesforce instance and empower our go-to-market teams through both education and filling gaps in our current Salesforce environment.
+
 ### Bench Application Support (BAS)
 
-BAS triages internal and external bug reports, questions, and stakeholder requests. They're experts in our applications, and regularly provide help and training to empower other Benchmates. Increasingly they're taking on other functions, like QA, site updates, and compliance.
+BAS triages internal and external bug reports. They're experts in our applications, and regularly provide help and training to empower other Benchmates. Increasingly they're taking on other functions, like QA, site updates, and compliance. They work closely with Sup Eng to respond to incidents and prioritize which feature requests create the most value for Bench.
 
-### Support Engineering
+### Support Engineering (Sup Eng)
 
-Support Engineering's primary concern is KTLO in our application, balancing their remaining capacity between supporting stakeholders with features that are too small for the roadmap and innovating to make both KTLO and supporting stakeholders more efficient. Sup Eng and BAS work together to handle crises when they occur, pulling in other BizTech teams or Product Engineering if needed.
+Support Engineering's primary concern is KTLO in our application, balancing their remaining capacity between supporting other teams at Bench with features that are too small for the roadmap and innovating to make both KTLO and supporting other teams at Bench more efficient. Sup Eng and BAS work together to handle crises when they occur, pulling in other BizTech teams or Product Engineering if needed.
 
 ### Developer Experience and Impact (DXI)
 
