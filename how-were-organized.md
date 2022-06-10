@@ -12,8 +12,9 @@ This document is written to help you understand what each of these teams does. F
   - [IT](#it)
   - [Data](#data)
   - [Platform](#platform)
+  - [Business Operations Support (BOS)](#business-operations-support-bos)
   - [Bench Application Support (BAS)](#bench-application-support-bas)
-  - [Support Engineering](#support-engineering)
+  - [Support Engineering (Sup Eng)](#support-engineering-sup-eng)
   - [Developer Experience and Impact (DXI)](#developer-experience-and-impact-dxi)
 - [Product Engineering](#product-engineering)
   - [Teams & Work Streams](#teams--work-streams)
@@ -40,13 +41,17 @@ The Data team owns our data pipelines and warehouse. They create the data infras
 
 The platform team own our cloud infrastructure including securing it. This team builds and maintains the interfaces that Benchmates use to create value for our customers, and they play a big role in enabling Product Engineering, IT, and Data with infrastructural support and guidance.
 
+### Business Operations Support (BOS)
+
+BOS is focused on the health of our CRM and the various tools that integrate with it. They triage and respond to issues with our Salesforce instance and empower our go-to-market teams through both education and filling gaps in our current Salesforce environment.
+
 ### Bench Application Support (BAS)
 
-BAS triages internal and external bug reports, questions, and stakeholder requests. They're experts in our applications, and regularly provide help and training to empower other Benchmates. Increasingly they're taking on other functions, like QA, site updates, and compliance.
+BAS triages internal and external bug reports and questions. They're experts in our applications, and regularly provide help and training to empower other Benchmates. Increasingly they're taking on other functions, like QA, site updates, and compliance. BAS and Sup Eng partner to respond to critical incidents and prioritize proposed improvements so that we build what's most valuable for Bench.
 
-### Support Engineering
+### Support Engineering (Sup Eng)
 
-Support Engineering's primary concern is KTLO in our application, balancing their remaining capacity between supporting stakeholders with features that are too small for the roadmap and innovating to make both KTLO and supporting stakeholders more efficient. Sup Eng and BAS work together to handle crises when they occur, pulling in other BizTech teams or Product Engineering if needed.
+Support Engineering's primary concern is KTLO in our application, balancing their remaining capacity between building features that are too small for the roadmap and innovating to make both our KTLO and our feature work more efficient. Sup Eng and BAS work together to handle crises when they occur, pulling in other BizTech teams or Product Engineering if needed.
 
 ### Developer Experience and Impact (DXI)
 
