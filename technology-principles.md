@@ -1,6 +1,6 @@
-# Technology Principles
+# Technology, Product & Design (TPD) Principles
 
-This page is a reference for the Technology principles and their supporting assertions. 
+This page is a reference for the TPD principles and their supporting assertions.
 
 - _[Watch Blake describe this system in a video.](https://www.instagram.com/tv/CHyqMh8hTVW/)_
 - _[Read the guide on how to use these principles.](culture-and-principles.md)_
@@ -9,42 +9,42 @@ This page is a reference for the Technology principles and their supporting asse
 
 *Context:*
 
-Our mastery of technology gives us the opportunity to make an impact at scale. We can ship elegant code that is easily maintainable and scales with ease. We can ship interfaces that are incredibly delightful to use. None of it matters unless real people use it and it makes a difference to the quality of their lives. We must keep this in mind in all of our work: it's not about us; it's about the impact we have on the world.
+Our mastery of technology gives us the opportunity to make an impact at scale. We can ship elegant code that is easily maintainable and scales with ease. We can ship interfaces that are incredibly delightful to use. None of it matters unless real people use it and it makes a difference to the quality of their lives. This means we need to ship often with deep empathy with our customers and rigorous processes that ensure we're always working on the most impactful things. It's not about us; it's about the impact we have on the world.
 
 *Axioms:*
-- We measure the value we create by how much it improves the lives of our customers.
-- The speed at which we learn is the most important factor in our ability to create value.
-- We are most likely to do high-value work when we see it as necessary to advance a cause that we believe in.
-- We ensure that our work is of high value by nurturing, developing and sharing so many ideas that we can’t possibly do them all, and then choosing only those that will make the largest impact.
-- Value can only be created when the things that we have built are being used.
+- Value creation starts with a commitment to improve the status quo
+- Building a thriving business will allow us to help small business owners at scale
+- We find our best solutions by working backwards from customer needs
+- Rapid iterations create short feedback loops that inform great solutions
+- The value we provide for our customers must be worth the effort we request from them
+- If we can't measure our impact, we can't assess if we've created value
+- It’s healthy to defer great ideas when our current work has greater impact
 
 ## Foster Growth
 
 *Context:*
 
-We've got a [big mission](https://bench.co/go/culture/). To get there, we all need to be _so much better_ than we currently are. Fostering growth starts as an individual activity—no one can grow for you. We upgrade that individual activity by making growth the number one priority of our management team. This is both a carrot and a stick; if you're taking yourself on, we will do everything we can to create space for your growth, and if you aren't growing, we'll have the tough conversations required to make sure you get back in the saddle.
+We've got a [big mission](https://bench.co/go/culture/). To get there, we all need to be _so much better_ than we currently are. Fostering growth starts as an individual activity: no one can grow _for you_! We enhance that individual activity by making growth the number one priority of our management team. This is both a carrot and a stick: if you're taking yourself on, we will do everything we can to create space for your growth, and if you aren't growing, we'll have the tough conversations required to make sure you get back in the saddle.
 
 *Axioms:*
-- Growth happens when an individual continuously asks themselves: is this the best I can do?
-- To grow, we must step into conversations that feel scary and uncomfortable.  
-- We grow fastest when we solicit feedback from multiple sources.
-- To foster the growth of our colleagues—regardless of their job title—we must give them deeply honest feedback, and expect them to do the same for us.
-- Feedback is most effective when those receiving it feel supported by those giving it.
-- Successes and failures are important because of what we learn from them.
-- You are ultimately responsible for recognizing when you're dissatisfied, and for addressing that dissatisfaction by making positive change.
+- Growth happens outside of your comfort zone
+- Both failure and success are incredible teachers
+- Permission to express dissatisfaction + support to drive change = continuous improvement
+- Feedback is most effective when those receiving it feel supported by those giving it
+- For growth, periods of rest are as essential as periods of effort
+- Teaching multiplies the value of your knowledge
 
-## Honour Time
+## Succeed Together
 
 *Context:*
 
-Time is the most precious resource we have. This applies at the organizational level and the individual level. By being intentional with the time we assign to our activities, we create an environment where creativity and ingenuity are the drivers of our success, not the time we spend working. This is how we get to be ferociously effective as an organization while also living rich, sustainable lifestyles as individuals.
+The work we do is complicated, and requires support from multiple groups with different skill sets. Succeeding together is about leveraging these skills along with our lived experiences to solve problems effectively and in a way that complements the other things happening at Bench. To do this, we need to find the right mix of autonomy and communication coupled with a deep understanding of our business and the customer's needs. This takes a lot of practice to do well, but when we get it right, amazing things can happen.
 
 *Axioms:*
-- We limit the time we spend on a problem to push ourselves to be creative in solving it.
-- Time spent _doing_ must be balanced by time spent _learning_.
-- The most effective commitments are those made by the individuals doing the work.
-- If commitments don't have a "by when" date, they won't happen.
-- If we never miss a date we've committed to, we’ll never know how fast we can go.
-- If we consistently miss the dates we commit to, no one will trust us.
-- As soon as you learn something that makes your current commitment invalid, make a new commitment.
-- Overtime is cheating—working extra hours is just a sneaky way of missing a date we've committed to.
+- High performers all share one quality: they make their teams better
+- Diverse perspectives and experiences contribute to better outcomes for everyone
+- Effective organizations use a small set of objectives to coordinate work across teams
+- Social bonds increase empathy, mutual respect, and our ability to do great things
+- Context, capability, and trust are all essential for a successful autonomous team
+- We are successful in setting timelines when they push us without burning us out
+- We break silos and build trust by making our goals, progress, and learnings readily - available and easily digestible
