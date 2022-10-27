@@ -9,7 +9,7 @@ This page is a reference for the TPD principles and their supporting assertions.
 
 *Context:*
 
-Our mastery of technology gives us the opportunity to make an impact at scale. We can ship elegant code that is easily maintainable and scales with ease. We can ship interfaces that are incredibly delightful to use. None of it matters unless real people use it and it makes a difference to the quality of their lives. This means we need to ship often with deep empathy with our customers and rigorous processes that ensure we're always working on the most impactful things. It's not about us; it's about the impact we have on the world.
+Our mastery of technology gives us the opportunity to make an impact at scale. We can ship elegant code that is easily maintainable and scales with ease. We can ship interfaces that are incredibly delightful to use. None of it matters unless real people use it and it makes a difference to the quality of their lives. This means we need to ship often with deep empathy for our customers and rigorous processes that ensure we're always working on the most impactful things. It's not about us; it's about the impact we have on the world.
 
 *Axioms:*
 - Value creation starts with a commitment to improve the status quo
@@ -47,4 +47,4 @@ The work we do is complicated, and requires support from multiple groups with di
 - Social bonds increase empathy, mutual respect, and our ability to do great things
 - Context, capability, and trust are all essential for a successful autonomous team
 - We are successful in setting timelines when they push us without burning us out
-- We break silos and build trust by making our goals, progress, and learnings readily - available and easily digestible
+- We break silos and build trust by making our goals, progress, and learnings readily available and easily digestible
