@@ -110,7 +110,7 @@ Our work resulted in three principles:
 
 - Create Value
 - Foster Growth
-- Honour Time
+- Succeed Together
 
 Like the Bench principles, they are designed to be in tension with each other. The ideal state looks like this:
 
@@ -124,7 +124,7 @@ As mentioned above, the Bench principles give instructions for _how we do it_, a
 
 ![Image of principles matrix](images/principles-matrix.png)
 
-So, when we have conversations about _Creating Value_, _Fostering Growth_, and _Honouring Time_, we must ensure that they live within the boundaries set by _Keep it Human_, _Be Responsible_, _Get Scrappy_, _Take a Stand_, and _Default Open_. If this all seems a bit complicated, don't worry: there's a system.
+So, when we have conversations about _Creating Value_, _Fostering Growth_, and _Succeed Together_, we must ensure that they live within the boundaries set by _Keep it Human_, _Be Responsible_, _Get Scrappy_, _Take a Stand_, and _Default Open_. If this all seems a bit complicated, don't worry: there's a system.
 
 ## A test suite for our culture
 
@@ -166,13 +166,13 @@ Failure: To grow, we must step into conversations that feel scary and uncomforta
 Reason: Letting them off the hook for being busy instead of intervening in the excuse and standing for their growth.
 ```
 
-**Honour Time**
+**Succeed Together**
 ```
-Failure: Learning and doing are not separate endeavors. Within the time we allocate to a problem, we must account for both the need to deliver a solution and the need to properly learn _how_ to deliver it.
-Reason: Somewhere in the planning process a deliverable was agreed on that didn't provide time for learning.
+Failure: If learning is a cultural measure of success, the Engineers success criteria failed because the speed of the product success crtiera was prioritized. Not everyone succeeded.
+Reason: Prioritizing one set of success crtieria over others due to a false sense of convenienece or imporatance.
 ```
 
-This tells us that this conversation is not consistent with our culture, and it also gives us a starting place for how to have the _next_ conversation to get back on track. In this case two things are happening: the engineer is letting a deadline take priority over their own growth, and the manager is letting it happen—despite having committed to the `Learning and doing...` and `The speed at which we learn..` axioms. That's not how we Create Value, Foster Growth, or Honour Time!
+This tells us that this conversation is not consistent with our culture, and it also gives us a starting place for how to have the _next_ conversation to get back on track. In this case two things are happening: the engineer is letting a deadline take priority over their own growth, and the manager is letting it happen—despite having committed to the `Learning and doing...` and `The speed at which we learn..` axioms. That's not how we Create Value, Foster Growth, or Succeed Together!
 
 Guided by our principles, a subsequent conversation could be:
 
