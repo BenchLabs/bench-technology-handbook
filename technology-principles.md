@@ -48,3 +48,18 @@ The work we do is complicated, and requires support from multiple groups with di
 - Context, capability, and trust are all essential for a successful autonomous team
 - We are successful in setting timelines when they push us without burning us out
 - We break silos and build trust by making our goals, progress, and learnings readily available and easily digestible
+
+## Build Agility
+
+*Context:*
+
+In software development, our goal is to deliver value to our customers quickly and efficiently. To build agility we need to build software that is simple, decoupled and easy to maintain.  We need to focus on building only those things that are valuable to our customers yet build it in a way that doesn't close off future opportunities.  We must have high levels of automated testing and observability to ensure that we catch issues early and can respond quickly. Finally, we need to be flexible and responsive to changing business needs so that we can continue to deliver value over time.  This starts with understanding the direction and making sure that every decision you make is moving in that direction.
+
+*Axioms:*
+
+- Understanding the future starts with you and your curiosity into the business & the technical vision
+- Simplicity and decoupling are essential for building scalable and flexible software
+- Building only what is valuable to the customer ensures that we are delivering real impact
+- High levels of automated testing and observability enable us to catch issues early and respond quickly
+- Clean code makes it easier to maintain and modify our software over time
+- Flexibility in our code & architecture is essential for responding to changing business needs and delivering ongoing value
