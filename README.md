@@ -11,7 +11,6 @@ This is a scrappy, default open resource. We're releasing this imperfect early v
   - [Technology Principles](technology-principles.md)
   - [Competencies by role (public)](https://docs.google.com/spreadsheets/d/1rV2q8TJaY8gHhuAhXaHBLJdld3XLdJG-UbL706SkCAY/edit#gid=221997572)
 - Core Skills
-  - [Inspiring Change](assertions-and-assessments.md)
   - [Culture and Principles](culture-and-principles.md)
 - Guides
   - [How we're organized](how-were-organized.md)
