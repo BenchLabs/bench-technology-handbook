@@ -113,7 +113,7 @@ Our work resulted in four principles:
 - Succeed Together
 - Build Agility
 
-Learn more about our Engineering principles [here](https://bench.co/go/culture/](https://github.com/BenchLabs/bench-technology-handbook/blob/master/technology-principles.md)). 
+Learn more about our Engineering principles [here](https://github.com/BenchLabs/bench-technology-handbook/blob/master/technology-principles.md). 
 
 
 When we have conversations about _Creating Value_, _Fostering Growth_, _Succeed Together_, and _Build Agility_, we must ensure that they live within the boundaries set by _Customer Obsession_, _Ownership_, _Empathy_, _Empowerment_, and _Transparency_.
