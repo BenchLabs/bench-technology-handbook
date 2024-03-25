@@ -104,19 +104,16 @@ For each theme, we defined a principle that we believed would result in the cult
 
 For the "feedback and learning theme", we decided that "Foster Growth" is the instruction most likely to help people achieve the culture defined by the theme's axioms.
 
-## The Technology Principles
+## The Engineering Principles
 
-Our work resulted in three principles:
+Our work resulted in four principles:
 
 - Create Value
 - Foster Growth
 - Succeed Together
 - Build Agility
 
-## Using the Bench and Engineering principles together
+Learn more about our Engineering principles [here](https://bench.co/go/culture/](https://github.com/BenchLabs/bench-technology-handbook/blob/master/technology-principles.md)). 
 
-As mentioned above, the Bench principles give instructions for _how we do it_, and the Engineering principles give instructions for _what we do_. To use them together, it's helpful to picture them as a matrix.
 
-![Image of principles matrix](images/principles-matrix.png)
-
-So, when we have conversations about _Creating Value_, _Fostering Growth_, _Succeed Together_, and _Build Agility_, we must ensure that they live within the boundaries set by _Customer Obsession_, _Ownership_, _Empathy_, _Empowerment_, and _Transparency_.
+When we have conversations about _Creating Value_, _Fostering Growth_, _Succeed Together_, and _Build Agility_, we must ensure that they live within the boundaries set by _Customer Obsession_, _Ownership_, _Empathy_, _Empowerment_, and _Transparency_.
